@@ -1,0 +1,1289 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>技能和状态效果列表 - 魔法纪录中文Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"技能和状态效果列表","wgTitle":"技能和状态效果列表","wgCurRevisionId":90521,"wgRevisionId":90521,"wgArticleId":4641,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["魔法纪录战斗系统"],"wgBreakFrames":!1,"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgMonthNamesShort":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRelevantPageName":"技能和状态效果列表","wgRelevantArticleId":4641,"wgRequestId":"02f195db683ae8dbc9f15acc","wgCSPNonce":!1,"wgUserVariant":"zh",
+"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgVisualEditor":{"pageLanguageCode":"zh","pageLanguageDir":"ltr","pageVariantFallbacks":["zh-hans","zh-hant","zh-cn","zh-tw","zh-hk","zh-sg","zh-mo","zh-my"]},"wgEditSubmitButtonLabelPublish":!1,"canpost":"","wgFlowThreadConfig":{"Avatar":"/extensions/Avatar/avatar.php?user=${username}","AnonymousAvatar":"https://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm\u0026f=y"}};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.yttrium.styles":"ready"};RLPAGEMODULES=["site",
+"mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.flowthread","skins.yttrium.js"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=zh&amp;modules=ext.visualEditor.desktopArticleTarget.noscript%7Cjquery.makeCollapsible.styles%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.yttrium.styles&amp;only=styles&amp;skin=yttrium"/>
+<script async="" src="/load.php?lang=zh&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=yttrium"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=zh&amp;modules=site.styles&amp;only=styles&amp;skin=yttrium"/>
+<meta name="generator" content="MediaWiki 1.34.0"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="魔法纪录中文Wiki (zh)"/>
+<link rel="EditURI" type="application/rsd+xml" href="https://magireco.moe/api.php?action=rsd"/>
+<link rel="alternate" hreflang="zh" href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh"/>
+<link rel="alternate" hreflang="zh-Hans-CN" href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh-cn"/>
+<link rel="alternate" hreflang="zh-Hant-TW" href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh-tw"/>
+<link rel="alternate" hreflang="x-default" href="/wiki/%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"/>
+<link rel="alternate" type="application/atom+xml" title="魔法纪录中文Wiki的Atom feed" href="/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+
+		<link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-touch-icon.png">
+		<meta name="apple-mobile-web-app-status-bar-style" content="white">
+		<link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
+		<link rel="manifest" href="/manifest.json">
+		<link rel="mask-icon" href="images/icons/safari-pinned-tab.svg" color="#5bbad5">
+		<meta name="msapplication-TileColor" content="#2d89ef">
+		<meta name="msapplication-TileImage" content="/images/icons/mstile-144x144.png">
+
+		<meta name="theme-color" content="#33abe0">
+
+		<!-- Global Site Tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106125501-1"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments)};
+		gtag('js', new Date());
+		gtag('config', 'UA-106125501-1');
+		</script>
+	
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-技能和状态效果列表 rootpage-技能和状态效果列表 skin-yttrium action-view">		
+		<script>		
+			if(localStorage.getItem("yttrium-darkmode") === "always-on") {
+				document.body.classList.add("darkmode");
+			} else if (localStorage.getItem("yttrium-darkmode") === "auto") {
+				document.body.classList.add("autodarkmode");
+			}
+
+			var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+			if (!isMobile || localStorage.getItem("yttrium-force-desktop")) {
+				viewport = document.querySelector("meta[name=viewport]");
+				viewport.setAttribute("content", "width=1024px");
+			}
+		</script>
+
+
+		<div id="topbar" class="navbar-default navbar-static-top">
+			<div class="container-fluid container">
+				<ul class="nav navbar-nav navbar-left">
+					<li class="mobile-logo">
+						<a href="/wiki/%E9%A6%96%E9%A1%B5" class="mobile-home-link"> 魔法纪录中文Wiki</a>					</li>
+					<li class="social-link"><a href="http://weibo.com/magireco" target=_blank><img src="/skins/Yttrium/images/weibo.png" style="margin-top:-3px" /> 圆环记录攻略组</a></li>
+					<li class="social-link"><a href="https://jq.qq.com/?_wv=1027&k=5JFGfvT" target=_blank id="qqQunLink"><img src="/skins/Yttrium/images/qqqun.ico" width=16px /> 加入QQ群</a></li>
+				</ul>
+
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#top-navbar-collapse" aria-expanded="false">
+						<span class="sr-only">用户</span>
+						<span class="glyphicon glyphicon-user" style="color: gray"></span>
+					</button>
+
+				</div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="top-navbar-collapse">
+					<ul class="nav navbar-nav navbar-right" >
+						<li id="pt-createaccount"><a href="/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8" title="建议您创建一个账户并登录，但这不是强制的">创建账户</a></li><li id="pt-login"><a href="/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li>					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</div>
+
+
+		<div class="container">
+			<div class="portlet" id="p-logo" role="banner">
+				<a href="/wiki/%E9%A6%96%E9%A1%B5" class="mw-wiki-logo" title="访问首页"></a>			</div>
+
+			<img src="/skins/Yttrium/images/banner_.png?3" id="head-banner" /> 
+
+		</div>
+
+		<div class="container" id="globalWrapper">
+			<div id="navbar">
+				<div class="floatleft">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav-collapse" aria-expanded="false">
+						<span class="glyphicon glyphicon-th-list" style="color: white; top: -5px"> 导航</span>
+					</button>
+
+				</div>
+				<ul id="main-nav-collapse" class="collapse" style="float: left; margin:0">
+
+					<li id="n-mainpage-description"><a href="/wiki/%E9%A6%96%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li class='dropdown'><a href='#' class='dropdown-toggle' data-toggle=dropdown role=button aria-haspopup=true aria-expanded=false>社区</a><ul class='dropdown-menu main-nav-submenu'><li id="n-.E7.A4.BE.E5.8C.BA.E8.A7.84.E8.8C.83"><a href="/wiki/magirecowiki:%E7%A4%BE%E5%8C%BA%E8%A7%84%E8%8C%83">社区规范</a></li><li id="n-.E7.A5.9E.E6.BB.A8.E5.92.96.E5.95.A1.E5.8E.85"><a href="/wiki/magirecowiki:%E7%A5%9E%E6%BB%A8%E5%92%96%E5%95%A1%E5%8E%85">神滨咖啡厅</a></li><li id="n-.E5.BE.85.E5.8A.9E.E4.BA.8B.E9.A1.B9"><a href="/wiki/magirecowiki:%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9">待办事项</a></li><li id="n-help"><a href="/wiki/Help:%E7%BC%96%E8%BE%91%E6%8C%87%E5%8D%97" title="查找帮助的地方">帮助</a></li><li id="n-.E6.B2.99.E7.9B.92"><a href="/wiki/magirecowiki:%E7%A5%9E%E6%BB%A8%E5%B8%82%E6%B2%99%E6%BB%A9%E6%B8%B8%E4%B9%90%E5%9B%AD">沙盒</a></li><li id="n-.E7.BB.B4.E6.8A.A4.E8.AE.B0.E5.BD.95"><a href="/wiki/magirecowiki:%E7%BB%B4%E6%8A%A4%E8%AE%B0%E5%BD%95">维护记录</a></li><li id="n-.E6.8D.90.E5.8A.A9"><a href="/wiki/Circle:%E6%8D%90%E5%8A%A9">捐助</a></li></ul></li><li class='dropdown'><a href='#' class='dropdown-toggle' data-toggle=dropdown role=button aria-haspopup=true aria-expanded=false>游戏资料</a><ul class='dropdown-menu main-nav-submenu'><li id="n-.E6.9C.AF.E8.AF.AD.E8.AF.8D.E5.85.B8"><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8">术语词典</a></li><li id="n-.E6.B8.B8.E6.88.8F.E5.85.AC.E5.91.8A"><a href="/wiki/Game:%E6%B8%B8%E6%88%8F%E5%85%AC%E5%91%8A">游戏公告</a></li><li id="n-.E4.BC.A4.E5.AE.B3.E5.85.AC.E5.BC.8F"><a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F">伤害公式</a></li><li id="n-.E6.8A.80.E8.83.BD.E6.95.88.E6.9E.9C"><a href="/wiki/%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8">技能效果</a></li><li id="n-.E4.BB.BB.E5.8A.A1"><a href="/wiki/%E4%BB%BB%E5%8A%A1">任务</a></li><li id="n-.E6.B4.BB.E5.8A.A8"><a href="/wiki/%E6%B4%BB%E5%8A%A8">活动</a></li><li id="n-.E6.94.BB.E7.95.A5"><a href="/wiki/Circle:%E6%B8%B8%E6%88%8F%E6%94%BB%E7%95%A5">攻略</a></li></ul></li><li class='dropdown'><a href='#' class='dropdown-toggle' data-toggle=dropdown role=button aria-haspopup=true aria-expanded=false>档案图鉴</a><ul class='dropdown-menu main-nav-submenu'><li id="n-.E5.89.A7.E6.83.85.E6.B1.89.E5.8C.96"><a href="/wiki/Game:%E5%89%A7%E6%83%85">剧情汉化</a></li><li id="n-.E9.AD.94.E6.B3.95.E5.B0.91.E5.A5.B3"><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%88%97%E8%A1%A8">魔法少女</a></li><li id="n-.E8.AE.B0.E5.BF.86.E7.BB.93.E6.99.B6.EF.BC.88.E6.97.A5.EF.BC.89"><a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6%E5%88%97%E8%A1%A8">记忆结晶（日）</a></li><li id="n-.E8.A8.98.E6.86.B6.E7.B5.90.E6.99.B6.EF.BC.88.E7.B9.81.EF.BC.89"><a href="/wiki/%E8%A8%98%E6%86%B6%E7%B5%90%E6%99%B6%E5%88%97%E8%A1%A8_(%E7%B9%81%E4%B8%AD%E6%9C%8D)">記憶結晶（繁）</a></li><li id="n-.E8.AE.B0.E5.BF.86.E7.BB.93.E6.99.B6.EF.BC.88.E7.AE.80.EF.BC.89"><a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6%E5%88%97%E8%A1%A8_(%E7%AE%80%E4%B8%AD%E6%9C%8D)">记忆结晶（简）</a></li><li id="n-.E9.AD.94.E5.A5.B3.E5.8C.96.E8.BA.AB"><a href="/wiki/%E9%AD%94%E5%A5%B3%E5%8C%96%E8%BA%AB">魔女化身</a></li><li id="n-.E9.AD.94.E5.A5.B3.E3.83.BB.E8.B0.A3"><a href="/wiki/%E9%AD%94%E5%A5%B3%E3%80%81%E8%B0%A3%E5%88%97%E8%A1%A8">魔女・谣</a></li><li id="n-.E7.B4.A0.E6.9D.90"><a href="/wiki/%E7%B4%A0%E6%9D%90">素材</a></li></ul></li><li class='dropdown'><a href='#' class='dropdown-toggle' data-toggle=dropdown role=button aria-haspopup=true aria-expanded=false>战斗关卡</a><ul class='dropdown-menu main-nav-submenu'><li id="n-.E4.B8.BB.E7.BA.BF"><a href="/wiki/%E4%B8%BB%E7%BA%BF%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8">主线</a></li><li id="n-.E6.94.AF.E7.BA.BF"><a href="/wiki/%E6%94%AF%E7%BA%BF%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8">支线</a></li><li id="n-.E8.A7.92.E8.89.B2"><a href="/wiki/%E8%A7%92%E8%89%B2%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8">角色</a></li><li id="n-.E8.A7.89.E9.86.92.E5.BC.BA.E5.8C.96"><a href="/wiki/%E8%A7%89%E9%86%92%E5%BC%BA%E5%8C%96%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8">觉醒强化</a></li></ul></li>
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">工具</a>
+						<ul class="dropdown-menu main-nav-submenu">
+							<li id="n-recentchanges"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li>						</ul>
+					</li>
+
+				</ul>
+
+				<form id="searchform" action="/index.php">
+					<div id=simpleSearch class="input-group col-sm-3">
+						<input type="hidden" name="title" value="Special:搜索" />
+						<input type="search" name="search" placeholder="搜索魔法纪录中文Wiki" title="搜索魔法纪录中文Wiki[f]" accesskey="f" class="form-control" id="searchInput" autocomplete="off"/>						<span class="input-group-btn">
+							<input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" class="btn btn-default"/>						</span>
+					</div>
+				</form>
+			</div>
+
+			<div class="row" id="main-body">
+
+				<div id="column-content" class="col-sm-12 col-sm-push-0">
+
+					<div id="content" class="mw-body" role="main">
+						<a id="top"></a>
+													<div id="siteNotice">
+								<div id="localNotice" lang="zh" dir="ltr"></div>							</div>
+						
+						<div id="content-header">
+							<div class="mw-indicators mw-body-content">
+</div>
+								<div id=title>
+									<span id="titlel"></span><span id="titlem">
+										<h1 id="firstHeading" class="firstHeading" lang="zh">技能和状态效果列表</h1>
+									</span><span id="titler"></span>
+								</div>
+															<li class="dropdown" id="cactions3">
+									<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+										<div id="zh-conv-label-1">文</div>
+										<div id="zh-conv-label-2"></div>
+									</a>
+									<ul class="dropdown-menu">
+										
+<li id="ca-varlang-0" class="selected"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh" lang="zh" hreflang="zh">不转换</a></li>
+<li id="ca-varlang-1"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh-cn" lang="zh-Hans-CN" hreflang="zh-Hans-CN">大陆简体</a></li>
+<li id="ca-varlang-2"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;variant=zh-tw" lang="zh-Hant-TW" hreflang="zh-Hant-TW">台灣正體</a></li>									</ul>
+								</li>
+							
+							<li class="dropdown" id="cactions2">
+								<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="glyphicon glyphicon-file"></span></a>
+								<ul class="dropdown-menu">
+									
+<li id="ca-nstab-main" class="selected"><a href="/wiki/%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8" title="查看内容页面[c]" accesskey="c">页面</a></li>
+<li id="ca-talk" class="new"><a href="/index.php?title=Talk:%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;action=edit&amp;redlink=1" rel="discussion" title="关于内容页面的讨论（页面不存在）[t]" accesskey="t">讨论</a></li>
+<li id="ca-viewsource"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;action=edit" title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></li>
+<li id="ca-history"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;action=history" title="本页面过去的版本[h]" accesskey="h">历史</a></li>								</ul>
+							</li>
+
+							
+						</div>
+
+						<div id="bodyContent" class="mw-body-content">
+							<div id="siteSub">来自魔法纪录中文Wiki</div>
+							<div id="contentSub" ></div>
+														<div id="jump-to-nav" class="mw-jump">
+								跳转至：								<a href="#column-one">
+									导航								</a>
+								、								<a href="#searchInput">
+									搜索								</a>
+							</div>
+
+							<!-- start content -->
+							<div id="mw-content-text" lang="zh" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>本列表列举了各种《<a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95" title="魔法纪录">魔法纪录</a>》战斗系统中使用的各种技能和状态的效果。
+</p><p>详细的触发时机和检定请参考<a href="/wiki/%E6%8A%80%E8%83%BD%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6" title="技能触发机制">技能触发机制</a>。具体数值请参考<a href="/wiki/%E6%8A%80%E8%83%BD%E7%AD%89%E7%BA%A7%E6%95%B0%E5%80%BC%E8%A1%A8" title="技能等级数值表">技能等级数值表</a>。
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="zh" dir="ltr"><h2>目录</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#.E8.BE.85.E5.8A.A9.E6.95.88.E6.9E.9C"><span class="tocnumber">1</span> <span class="toctext">辅助效果</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Buff"><span class="tocnumber">2</span> <span class="toctext">Buff</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Debuff"><span class="tocnumber">3</span> <span class="toctext">Debuff</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#.E7.8A.B6.E6.80.81.E5.BC.BA.E5.8C.96"><span class="tocnumber">4</span> <span class="toctext">状态强化</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#.E7.8A.B6.E6.80.81.E5.BC.82.E5.B8.B8"><span class="tocnumber">5</span> <span class="toctext">状态异常</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#.E9.87.8D.E6.8A.BD"><span class="tocnumber">6</span> <span class="toctext">重抽</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#.E7.89.B9.E6.AE.8A.E6.95.88.E6.9E.9C"><span class="tocnumber">7</span> <span class="toctext">特殊效果</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#.E5.8F.82.E8.A7.81"><span class="tocnumber">8</span> <span class="toctext">参见</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#.E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5"><span class="tocnumber">9</span> <span class="toctext">外部链接</span></a></li>
+</ul>
+</div>
+
+<h2><span id="辅助效果"></span><span class="mw-headline" id=".E8.BE.85.E5.8A.A9.E6.95.88.E6.9E.9C">辅助效果</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1078.png" class="image" title="HP回復"><img alt="HP回復" src="https://cdn.mfjl.wiki/thumb/6/62/Icon_skill_1078.png/30px-Icon_skill_1078.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/62/Icon_skill_1078.png/45px-Icon_skill_1078.png 1.5x, https://cdn.mfjl.wiki/thumb/6/62/Icon_skill_1078.png/60px-Icon_skill_1078.png 2x" /></a></td>
+<td><span title="原文：HP回復" style="border-bottom: 1px dotted #B0B0B0;">回复HP</span></td>
+<td>单次回复HP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1079.png" class="image" title="MP回復"><img alt="MP回復" src="https://cdn.mfjl.wiki/thumb/1/1a/Icon_skill_1079.png/30px-Icon_skill_1079.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/1a/Icon_skill_1079.png/45px-Icon_skill_1079.png 1.5x, https://cdn.mfjl.wiki/thumb/1/1a/Icon_skill_1079.png/60px-Icon_skill_1079.png 2x" /></a></td>
+<td><span title="原文：MP回復" style="border-bottom: 1px dotted #B0B0B0;">回复MP</span></td>
+<td>单次回复MP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1080.png" class="image"><img alt="Icon skill 1080.png" src="https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1080.png/30px-Icon_skill_1080.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1080.png/45px-Icon_skill_1080.png 1.5x, https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1080.png/60px-Icon_skill_1080.png 2x" /></a></td>
+<td><span title="原文：蘇生" style="border-bottom: 1px dotted #B0B0B0;">苏生</span></td>
+<td>将其他一名己方角色恢复战斗
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1081.png" class="image"><img alt="Icon skill 1081.png" src="https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1081.png/30px-Icon_skill_1081.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1081.png/45px-Icon_skill_1081.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1081.png/60px-Icon_skill_1081.png 2x" /></a></td>
+<td><span title="原文：バフ解除" style="border-bottom: 1px dotted #B0B0B0;">Buff解除</span></td>
+<td>解除已有的Buff
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1082.png" class="image"><img alt="Icon skill 1082.png" src="https://cdn.mfjl.wiki/thumb/c/c2/Icon_skill_1082.png/30px-Icon_skill_1082.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c2/Icon_skill_1082.png/45px-Icon_skill_1082.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c2/Icon_skill_1082.png/60px-Icon_skill_1082.png 2x" /></a></td>
+<td><span title="原文：デバフ解除" style="border-bottom: 1px dotted #B0B0B0;">Debuff解除</span></td>
+<td>解除已有的Debuff
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1083.png" class="image"><img alt="Icon skill 1083.png" src="https://cdn.mfjl.wiki/thumb/7/72/Icon_skill_1083.png/30px-Icon_skill_1083.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/72/Icon_skill_1083.png/45px-Icon_skill_1083.png 1.5x, https://cdn.mfjl.wiki/thumb/7/72/Icon_skill_1083.png/60px-Icon_skill_1083.png 2x" /></a></td>
+<td><span title="原文：状態強化解除" style="border-bottom: 1px dotted #B0B0B0;">状态强化解除</span></td>
+<td>解除已有的状态强化
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1084.png" class="image"><img alt="Icon skill 1084.png" src="https://cdn.mfjl.wiki/thumb/5/5c/Icon_skill_1084.png/30px-Icon_skill_1084.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/5c/Icon_skill_1084.png/45px-Icon_skill_1084.png 1.5x, https://cdn.mfjl.wiki/thumb/5/5c/Icon_skill_1084.png/60px-Icon_skill_1084.png 2x" /></a></td>
+<td><span title="原文：状態異常解除" style="border-bottom: 1px dotted #B0B0B0;">状态异常解除</span></td>
+<td>解除已有的状态异常
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1174.png" class="image" title="サヴァイヴ"><img alt="サヴァイヴ" src="https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1174.png/30px-Icon_skill_1174.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1174.png/45px-Icon_skill_1174.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1174.png/60px-Icon_skill_1174.png 2x" /></a></td>
+<td><span title="原文：サヴァイヴ" style="border-bottom: 1px dotted #B0B0B0;">Survive</span></td>
+<td>回合内承受高于HP的伤害时不会死亡，并在下一回合开始时回复HP
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Buff">Buff</span></h2>
+<p>Buff（日文：<span lang="ja">バフ</span>）是指战斗中的一种增益效果，会增强某种技能的效果或数值，在技能页面上以及战斗界面的角色或怪物（长按可查看详情）上方以红色图标显示。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1085.png" class="image" title="攻撃力UP"><img alt="攻撃力UP" src="https://cdn.mfjl.wiki/thumb/8/82/Icon_skill_1085.png/30px-Icon_skill_1085.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/82/Icon_skill_1085.png/45px-Icon_skill_1085.png 1.5x, https://cdn.mfjl.wiki/thumb/8/82/Icon_skill_1085.png/60px-Icon_skill_1085.png 2x" /></a></td>
+<td><span title="原文：攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">攻击力UP</span></td>
+<td>增加攻击力的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1086.png" class="image" title="防御力UP"><img alt="防御力UP" src="https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1086.png/30px-Icon_skill_1086.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1086.png/45px-Icon_skill_1086.png 1.5x, https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1086.png/60px-Icon_skill_1086.png 2x" /></a></td>
+<td><span title="原文：防御力UP" style="border-bottom: 1px dotted #B0B0B0;">防御力UP</span></td>
+<td>增加防御力的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1087.png" class="image" title="与えるダメージUP"><img alt="与えるダメージUP" src="https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1087.png/30px-Icon_skill_1087.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1087.png/45px-Icon_skill_1087.png 1.5x, https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1087.png/60px-Icon_skill_1087.png 2x" /></a></td>
+<td><span title="原文：与えるダメージUP" style="border-bottom: 1px dotted #B0B0B0;">造成伤害UP</span></td>
+<td>增加<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1088.png" class="image" title="マギアダメージUP"><img alt="マギアダメージUP" src="https://cdn.mfjl.wiki/thumb/4/40/Icon_skill_1088.png/30px-Icon_skill_1088.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/4/40/Icon_skill_1088.png/45px-Icon_skill_1088.png 1.5x, https://cdn.mfjl.wiki/thumb/4/40/Icon_skill_1088.png/60px-Icon_skill_1088.png 2x" /></a></td>
+<td><span title="原文：マギアダメージUP" style="border-bottom: 1px dotted #B0B0B0;">Magia伤害UP</span></td>
+<td>增加<a href="/wiki/Magia" title="Magia">Magia</a>伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1089.png" class="image" title="状態異常耐性UP"><img alt="状態異常耐性UP" src="https://cdn.mfjl.wiki/thumb/a/a3/Icon_skill_1089.png/30px-Icon_skill_1089.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a3/Icon_skill_1089.png/45px-Icon_skill_1089.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a3/Icon_skill_1089.png/60px-Icon_skill_1089.png 2x" /></a></td>
+<td><span title="原文：状態異常耐性UP" style="border-bottom: 1px dotted #B0B0B0;">状态异常耐性UP</span></td>
+<td>增强对<a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8" title="状态异常">状态异常</a>（仅紫色图标的效果，不含<a href="/wiki/Debuff" title="Debuff">Debuff</a>）的抗性
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1090.png" class="image" title="Accele MPUP"><img alt="Accele MPUP" src="https://cdn.mfjl.wiki/thumb/9/92/Icon_skill_1090.png/30px-Icon_skill_1090.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/92/Icon_skill_1090.png/45px-Icon_skill_1090.png 1.5x, https://cdn.mfjl.wiki/thumb/9/92/Icon_skill_1090.png/60px-Icon_skill_1090.png 2x" /></a></td>
+<td><span title="原文：Accele MPUP" style="border-bottom: 1px dotted #B0B0B0;">Accele MPUP</span></td>
+<td>使用Accele<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时获得的MP增加
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1091.png" class="image" title="Charge後ダメージUP"><img alt="Charge後ダメージUP" src="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1091.png/30px-Icon_skill_1091.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1091.png/45px-Icon_skill_1091.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1091.png/60px-Icon_skill_1091.png 2x" /></a></td>
+<td><span title="原文：Charge後ダメージUP" style="border-bottom: 1px dotted #B0B0B0;">Charge后伤害UP</span></td>
+<td>消耗叠加的Charge时，伤害增加
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1092.png" class="image" title="BlastダメージUP"><img alt="BlastダメージUP" src="https://cdn.mfjl.wiki/thumb/c/cc/Icon_skill_1092.png/30px-Icon_skill_1092.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/cc/Icon_skill_1092.png/45px-Icon_skill_1092.png 1.5x, https://cdn.mfjl.wiki/thumb/c/cc/Icon_skill_1092.png/60px-Icon_skill_1092.png 2x" /></a></td>
+<td><span title="原文：BlastダメージUP" style="border-bottom: 1px dotted #B0B0B0;">Blast伤害UP</span></td>
+<td>使用Blast<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时伤害增加
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1093.png" class="image" title="MP獲得量UP"><img alt="MP獲得量UP" src="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1093.png/30px-Icon_skill_1093.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1093.png/45px-Icon_skill_1093.png 1.5x, https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1093.png/60px-Icon_skill_1093.png 2x" /></a></td>
+<td><span title="原文：MP獲得量UP" style="border-bottom: 1px dotted #B0B0B0;">MP获得量UP</span></td>
+<td>Quest中通过Accele Combo以外获得的MP增加
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1214.png" class="image"><img alt="Icon skill 1214.png" src="https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1214.png/30px-Icon_skill_1214.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1214.png/45px-Icon_skill_1214.png 1.5x, https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1214.png/60px-Icon_skill_1214.png 2x" /></a></td>
+<td><span title="原文：ChargeディスクダメージUP" style="border-bottom: 1px dotted #B0B0B0;">Charge盘伤害UP</span></td>
+<td>增加使用Charge盘进行攻击的伤害
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1216.png" class="image"><img alt="Icon skill 1216.png" src="https://cdn.mfjl.wiki/thumb/f/f4/Icon_skill_1216.png/30px-Icon_skill_1216.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f4/Icon_skill_1216.png/45px-Icon_skill_1216.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f4/Icon_skill_1216.png/60px-Icon_skill_1216.png 2x" /></a></td>
+<td><span title="原文：MP100以上時MP獲得量UP" style="border-bottom: 1px dotted #B0B0B0;">MP100以上时MP获得量UP</span></td>
+<td>在MP100以上时增加获得的MP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1220.png" class="image"><img alt="Icon skill 1220.png" src="https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1220.png/30px-Icon_skill_1220.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1220.png/45px-Icon_skill_1220.png 1.5x, https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1220.png/60px-Icon_skill_1220.png 2x" /></a></td>
+<td><span title="原文：ドッペルダメージUP" style="border-bottom: 1px dotted #B0B0B0;">Doppel伤害UP</span></td>
+<td>增加<a href="/wiki/Doppel" class="mw-redirect" title="Doppel">Doppel</a>造成的伤害
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1233.png" class="image"><img alt="Icon skill 1233.png" src="https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1233.png/30px-Icon_skill_1233.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1233.png/45px-Icon_skill_1233.png 1.5x, https://cdn.mfjl.wiki/thumb/d/dd/Icon_skill_1233.png/60px-Icon_skill_1233.png 2x" /></a></td>
+<td><span title="原文：火属性攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">火属性攻击力UP</span></td>
+<td>增加火属性角色的攻击力数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1234.png" class="image"><img alt="Icon skill 1234.png" src="https://cdn.mfjl.wiki/thumb/0/07/Icon_skill_1234.png/30px-Icon_skill_1234.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/07/Icon_skill_1234.png/45px-Icon_skill_1234.png 1.5x, https://cdn.mfjl.wiki/thumb/0/07/Icon_skill_1234.png/60px-Icon_skill_1234.png 2x" /></a></td>
+<td><span title="原文：闇属性攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">暗属性攻击力UP</span></td>
+<td>增加暗属性角色的攻击力数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1235.png" class="image"><img alt="Icon skill 1235.png" src="https://cdn.mfjl.wiki/thumb/d/dc/Icon_skill_1235.png/30px-Icon_skill_1235.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/dc/Icon_skill_1235.png/45px-Icon_skill_1235.png 1.5x, https://cdn.mfjl.wiki/thumb/d/dc/Icon_skill_1235.png/60px-Icon_skill_1235.png 2x" /></a></td>
+<td><span title="原文：光属性攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">光属性攻击力UP</span></td>
+<td>增加光属性角色的攻击力数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1236.png" class="image"><img alt="Icon skill 1236.png" src="https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1236.png/30px-Icon_skill_1236.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1236.png/45px-Icon_skill_1236.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1236.png/60px-Icon_skill_1236.png 2x" /></a></td>
+<td><span title="原文：水属性攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">水属性攻击力UP</span></td>
+<td>增加水属性角色的攻击力数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1237.png" class="image"><img alt="Icon skill 1237.png" src="https://cdn.mfjl.wiki/thumb/9/94/Icon_skill_1237.png/30px-Icon_skill_1237.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/94/Icon_skill_1237.png/45px-Icon_skill_1237.png 1.5x, https://cdn.mfjl.wiki/thumb/9/94/Icon_skill_1237.png/60px-Icon_skill_1237.png 2x" /></a></td>
+<td><span title="原文：木属性攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">木属性攻击力UP</span></td>
+<td>增加木属性角色的攻击力数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1241.png" class="image"><img alt="Icon skill 1241.png" src="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1241.png/30px-Icon_skill_1241.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1241.png/45px-Icon_skill_1241.png 1.5x, https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1241.png/60px-Icon_skill_1241.png 2x" /></a></td>
+<td><span title="原文：瀕死時攻撃力UP" style="border-bottom: 1px dotted #B0B0B0;">濒死时攻击力UP</span></td>
+<td>角色濒死时，增加攻击力的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1242.png" class="image"><img alt="Icon skill 1242.png" src="https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1242.png/30px-Icon_skill_1242.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1242.png/45px-Icon_skill_1242.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1242.png/60px-Icon_skill_1242.png 2x" /></a></td>
+<td><span title="原文：瀕死時防御力UP" style="border-bottom: 1px dotted #B0B0B0;">濒死时防御力UP</span></td>
+<td>角色濒死时，增加防御力的数值
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Debuff">Debuff</span></h2>
+<p>Debuff（日文：<span lang="ja">デバフ</span>）是指战斗中的一种减损效果，会造成某种属性或数值的削减，在技能页面上以及战斗界面的角色或怪物上方以蓝色图标显示。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1094.png" class="image" title="攻撃力DOWN"><img alt="攻撃力DOWN" src="https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1094.png/30px-Icon_skill_1094.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1094.png/45px-Icon_skill_1094.png 1.5x, https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1094.png/60px-Icon_skill_1094.png 2x" /></a></td>
+<td><span title="原文：攻撃力DOWN" style="border-bottom: 1px dotted #B0B0B0;">攻击力DOWN</span></td>
+<td>降低攻击力的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1095.png" class="image" title="防御力DOWN"><img alt="防御力DOWN" src="https://cdn.mfjl.wiki/thumb/9/98/Icon_skill_1095.png/30px-Icon_skill_1095.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/98/Icon_skill_1095.png/45px-Icon_skill_1095.png 1.5x, https://cdn.mfjl.wiki/thumb/9/98/Icon_skill_1095.png/60px-Icon_skill_1095.png 2x" /></a></td>
+<td><span title="原文：防御力DOWN" style="border-bottom: 1px dotted #B0B0B0;">防御力DOWN</span></td>
+<td>降低防御力的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1096.png" class="image" title="与えるダメージDOWN"><img alt="与えるダメージDOWN" src="https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1096.png/30px-Icon_skill_1096.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1096.png/45px-Icon_skill_1096.png 1.5x, https://cdn.mfjl.wiki/thumb/c/cf/Icon_skill_1096.png/60px-Icon_skill_1096.png 2x" /></a></td>
+<td><span title="原文：与えるダメージDOWN" style="border-bottom: 1px dotted #B0B0B0;">造成伤害DOWN</span></td>
+<td>降低<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1097.png" class="image" title="マギアダメージDOWN"><img alt="マギアダメージDOWN" src="https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1097.png/30px-Icon_skill_1097.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1097.png/45px-Icon_skill_1097.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1097.png/60px-Icon_skill_1097.png 2x" /></a></td>
+<td><span title="原文：マギアダメージDOWN" style="border-bottom: 1px dotted #B0B0B0;">Magia伤害DOWN</span></td>
+<td>降低<a href="/wiki/Magia" title="Magia">Magia</a>伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1098.png" class="image" title="状態異常耐性DOWN"><img alt="状態異常耐性DOWN" src="https://cdn.mfjl.wiki/thumb/3/3e/Icon_skill_1098.png/30px-Icon_skill_1098.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/3/3e/Icon_skill_1098.png/45px-Icon_skill_1098.png 1.5x, https://cdn.mfjl.wiki/thumb/3/3e/Icon_skill_1098.png/60px-Icon_skill_1098.png 2x" /></a></td>
+<td><span title="原文：状態異常耐性DOWN" style="border-bottom: 1px dotted #B0B0B0;">状态异常耐性DOWN</span></td>
+<td>降低对<a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8" title="状态异常">状态异常</a>（仅紫色图标的效果，不含Debuff）的抗性
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1099.png" class="image" title="Accele MP DOWN"><img alt="Accele MP DOWN" src="https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1099.png/30px-Icon_skill_1099.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1099.png/45px-Icon_skill_1099.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b2/Icon_skill_1099.png/60px-Icon_skill_1099.png 2x" /></a></td>
+<td><span title="原文：Accele MP DOWN" style="border-bottom: 1px dotted #B0B0B0;">Accele MP DOWN</span></td>
+<td>使用Accele<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时获得的MP降低
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1100.png" class="image" title="Charge後ダメージDOWN"><img alt="Charge後ダメージDOWN" src="https://cdn.mfjl.wiki/thumb/a/ac/Icon_skill_1100.png/30px-Icon_skill_1100.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/ac/Icon_skill_1100.png/45px-Icon_skill_1100.png 1.5x, https://cdn.mfjl.wiki/thumb/a/ac/Icon_skill_1100.png/60px-Icon_skill_1100.png 2x" /></a></td>
+<td><span title="原文：Charge後ダメージDOWN" style="border-bottom: 1px dotted #B0B0B0;">Charge后伤害DOWN</span></td>
+<td>叠加Charge后进行攻击时伤害降低
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1101.png" class="image" title="BlastダメージDOWN"><img alt="BlastダメージDOWN" src="https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1101.png/30px-Icon_skill_1101.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1101.png/45px-Icon_skill_1101.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f0/Icon_skill_1101.png/60px-Icon_skill_1101.png 2x" /></a></td>
+<td><span title="原文：Blast ダメージDOWN" style="border-bottom: 1px dotted #B0B0B0;">Blast伤害DOWN</span></td>
+<td>使用Blast<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时伤害降低
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1102.png" class="image" title="MP獲得量DOWN"><img alt="MP獲得量DOWN" src="https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1102.png/30px-Icon_skill_1102.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1102.png/45px-Icon_skill_1102.png 1.5x, https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1102.png/60px-Icon_skill_1102.png 2x" /></a></td>
+<td><span title="原文：MP獲得量DOWN" style="border-bottom: 1px dotted #B0B0B0;">MP获得量DOWN</span></td>
+<td>使用Accele、Charge，以及受到攻击时获得的MP降低
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1215.png" class="image"><img alt="Icon skill 1215.png" src="https://cdn.mfjl.wiki/thumb/8/84/Icon_skill_1215.png/30px-Icon_skill_1215.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/84/Icon_skill_1215.png/45px-Icon_skill_1215.png 1.5x, https://cdn.mfjl.wiki/thumb/8/84/Icon_skill_1215.png/60px-Icon_skill_1215.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td><span style="color:Grey;">疑似使用Charge<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时伤害降低</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1222.png" class="image" title="Blast被ダメージUP"><img alt="Blast被ダメージUP" src="https://cdn.mfjl.wiki/thumb/d/db/Icon_skill_1222.png/30px-Icon_skill_1222.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/db/Icon_skill_1222.png/45px-Icon_skill_1222.png 1.5x, https://cdn.mfjl.wiki/thumb/d/db/Icon_skill_1222.png/60px-Icon_skill_1222.png 2x" /></a></td>
+<td><span title="原文：Blast被ダメージUP" style="border-bottom: 1px dotted #B0B0B0;">受Blast伤害UP</span></td>
+<td>受到Blast<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>时的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1223.png" class="image" title="Charge後被ダメージUP"><img alt="Charge後被ダメージUP" src="https://cdn.mfjl.wiki/thumb/2/2a/Icon_skill_1223.png/30px-Icon_skill_1223.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/2a/Icon_skill_1223.png/45px-Icon_skill_1223.png 1.5x, https://cdn.mfjl.wiki/thumb/2/2a/Icon_skill_1223.png/60px-Icon_skill_1223.png 2x" /></a></td>
+<td><span title="原文：Charge後被ダメージUP" style="border-bottom: 1px dotted #B0B0B0;">受Charge后伤害UP</span></td>
+<td>受到Charge后的<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1226.png" class="image" title="水属性耐性DOWN"><img alt="水属性耐性DOWN" src="https://cdn.mfjl.wiki/thumb/2/28/Icon_skill_1226.png/30px-Icon_skill_1226.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/28/Icon_skill_1226.png/45px-Icon_skill_1226.png 1.5x, https://cdn.mfjl.wiki/thumb/2/28/Icon_skill_1226.png/60px-Icon_skill_1226.png 2x" /></a></td>
+<td><span title="原文：水属性耐性DOWN" style="border-bottom: 1px dotted #B0B0B0;">水属性耐性DOWN</span></td>
+<td>受到水属性的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1228.png" class="image" title="光属性耐性DOWN"><img alt="光属性耐性DOWN" src="https://cdn.mfjl.wiki/thumb/f/f5/Icon_skill_1228.png/30px-Icon_skill_1228.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f5/Icon_skill_1228.png/45px-Icon_skill_1228.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f5/Icon_skill_1228.png/60px-Icon_skill_1228.png 2x" /></a></td>
+<td><span title="原文：光属性耐性DOWN" style="border-bottom: 1px dotted #B0B0B0;">光属性耐性DOWN</span></td>
+<td>受到光属性的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1230.png" class="image" title="闇属性耐性DOWN"><img alt="闇属性耐性DOWN" src="https://cdn.mfjl.wiki/thumb/7/75/Icon_skill_1230.png/30px-Icon_skill_1230.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/75/Icon_skill_1230.png/45px-Icon_skill_1230.png 1.5x, https://cdn.mfjl.wiki/thumb/7/75/Icon_skill_1230.png/60px-Icon_skill_1230.png 2x" /></a></td>
+<td><span title="原文：闇属性耐性DOWN" style="border-bottom: 1px dotted #B0B0B0;">暗属性耐性DOWN</span></td>
+<td>受到暗属性的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1238.png" class="image" title="木属性耐性DOWN"><img alt="木属性耐性DOWN" src="https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1238.png/30px-Icon_skill_1238.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1238.png/45px-Icon_skill_1238.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1238.png/60px-Icon_skill_1238.png 2x" /></a></td>
+<td><span title="原文：木属性耐性DOWN" style="border-bottom: 1px dotted #B0B0B0;">木属性耐性DOWN</span></td>
+<td>受到木属性的伤害上升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1247.png" class="image" title="被ダメージ上昇"><img alt="被ダメージ上昇" src="https://cdn.mfjl.wiki/thumb/9/9b/Icon_skill_1247.png/30px-Icon_skill_1247.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/9b/Icon_skill_1247.png/45px-Icon_skill_1247.png 1.5x, https://cdn.mfjl.wiki/thumb/9/9b/Icon_skill_1247.png/60px-Icon_skill_1247.png 2x" /></a></td>
+<td><span title="原文：被ダメージ上昇" style="border-bottom: 1px dotted #B0B0B0;">受伤害上升</span></td>
+<td>每次受到异常状态以外的伤害时，额外增加固定值
+</td></tr></tbody></table>
+<h2><span id="状态强化"></span><span class="mw-headline" id=".E7.8A.B6.E6.80.81.E5.BC.BA.E5.8C.96">状态强化</span></h2>
+<p><b>状态强化</b>（日文：<span lang="ja">状態強化</span>）是指战斗中被赋予的有利条件，在技能页面上以及战斗界面的角色或怪物（长按可查看详情）上方以黄色图标显示。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1116.png" class="image"><img alt="Icon skill 1116.png" src="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1116.png/30px-Icon_skill_1116.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1116.png/45px-Icon_skill_1116.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1116.png/60px-Icon_skill_1116.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1117.png" class="image"><img alt="Icon skill 1117.png" src="https://cdn.mfjl.wiki/thumb/5/51/Icon_skill_1117.png/30px-Icon_skill_1117.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/51/Icon_skill_1117.png/45px-Icon_skill_1117.png 1.5x, https://cdn.mfjl.wiki/thumb/5/51/Icon_skill_1117.png/60px-Icon_skill_1117.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1118.png" class="image"><img alt="Icon skill 1118.png" src="https://cdn.mfjl.wiki/thumb/f/fa/Icon_skill_1118.png/30px-Icon_skill_1118.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/fa/Icon_skill_1118.png/45px-Icon_skill_1118.png 1.5x, https://cdn.mfjl.wiki/thumb/f/fa/Icon_skill_1118.png/60px-Icon_skill_1118.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1119.png" class="image"><img alt="Icon skill 1119.png" src="https://cdn.mfjl.wiki/thumb/f/f7/Icon_skill_1119.png/30px-Icon_skill_1119.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f7/Icon_skill_1119.png/45px-Icon_skill_1119.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f7/Icon_skill_1119.png/60px-Icon_skill_1119.png 2x" /></a></td>
+<td><span title="原文：ダメージアップ" style="border-bottom: 1px dotted #B0B0B0;">伤害上升</span></td>
+<td>增加<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1120.png" class="image"><img alt="Icon skill 1120.png" src="https://cdn.mfjl.wiki/thumb/2/24/Icon_skill_1120.png/30px-Icon_skill_1120.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/24/Icon_skill_1120.png/45px-Icon_skill_1120.png 1.5x, https://cdn.mfjl.wiki/thumb/2/24/Icon_skill_1120.png/60px-Icon_skill_1120.png 2x" /></a></td>
+<td><span title="原文：ダメージカット" style="border-bottom: 1px dotted #B0B0B0;">伤害削减</span></td>
+<td>降低<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1121.png" class="image"><img alt="Icon skill 1121.png" src="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1121.png/30px-Icon_skill_1121.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1121.png/45px-Icon_skill_1121.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1121.png/60px-Icon_skill_1121.png 2x" /></a></td>
+<td><span title="原文：クリティカル" style="border-bottom: 1px dotted #B0B0B0;">暴击</span></td>
+<td><a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">攻击时提高加伤系数</a>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1122.png" class="image"><img alt="Icon skill 1122.png" src="https://cdn.mfjl.wiki/thumb/4/4f/Icon_skill_1122.png/30px-Icon_skill_1122.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/4/4f/Icon_skill_1122.png/45px-Icon_skill_1122.png 1.5x, https://cdn.mfjl.wiki/thumb/4/4f/Icon_skill_1122.png/60px-Icon_skill_1122.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1123.png" class="image"><img alt="Icon skill 1123.png" src="https://cdn.mfjl.wiki/thumb/b/bc/Icon_skill_1123.png/30px-Icon_skill_1123.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/bc/Icon_skill_1123.png/45px-Icon_skill_1123.png 1.5x, https://cdn.mfjl.wiki/thumb/b/bc/Icon_skill_1123.png/60px-Icon_skill_1123.png 2x" /></a></td>
+<td><span title="原文：防御無視" style="border-bottom: 1px dotted #B0B0B0;">无视防御</span></td>
+<td><a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算伤害</a>时无视对方防御力
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1124.png" class="image"><img alt="Icon skill 1124.png" src="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1124.png/30px-Icon_skill_1124.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1124.png/45px-Icon_skill_1124.png 1.5x, https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1124.png/60px-Icon_skill_1124.png 2x" /></a></td>
+<td><span title="原文：回避" style="border-bottom: 1px dotted #B0B0B0;">回避</span></td>
+<td>让对方的普通攻击对自己的伤害为0
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1125.png" class="image"><img alt="Icon skill 1125.png" src="https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1125.png/30px-Icon_skill_1125.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1125.png/45px-Icon_skill_1125.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1125.png/60px-Icon_skill_1125.png 2x" /></a></td>
+<td><span title="原文：カウンター" style="border-bottom: 1px dotted #B0B0B0;">反击</span></td>
+<td>受到伤害时可以对对方进行额外攻击
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1126.png" class="image"><img alt="Icon skill 1126.png" src="https://cdn.mfjl.wiki/thumb/0/0c/Icon_skill_1126.png/30px-Icon_skill_1126.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/0c/Icon_skill_1126.png/45px-Icon_skill_1126.png 1.5x, https://cdn.mfjl.wiki/thumb/0/0c/Icon_skill_1126.png/60px-Icon_skill_1126.png 2x" /></a></td>
+<td><span title="原文：追撃" style="border-bottom: 1px dotted #B0B0B0;">追击</span></td>
+<td>其它己方角色进行攻击时，自己可以对生存的攻击对象进行额外攻击
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1127.png" class="image"><img alt="Icon skill 1127.png" src="https://cdn.mfjl.wiki/thumb/9/93/Icon_skill_1127.png/30px-Icon_skill_1127.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/93/Icon_skill_1127.png/45px-Icon_skill_1127.png 1.5x, https://cdn.mfjl.wiki/thumb/9/93/Icon_skill_1127.png/60px-Icon_skill_1127.png 2x" /></a></td>
+<td><span title="原文：耐える" style="border-bottom: 1px dotted #B0B0B0;">忍耐</span></td>
+<td>自己受到比自己HP高的伤害时，只有1次让自己的HP变为1
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1128.png" class="image"><img alt="Icon skill 1128.png" src="https://cdn.mfjl.wiki/thumb/1/15/Icon_skill_1128.png/30px-Icon_skill_1128.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/15/Icon_skill_1128.png/45px-Icon_skill_1128.png 1.5x, https://cdn.mfjl.wiki/thumb/1/15/Icon_skill_1128.png/60px-Icon_skill_1128.png 2x" /></a></td>
+<td><span title="原文：挑発" style="border-bottom: 1px dotted #B0B0B0;">挑衅</span></td>
+<td>将对方角色的攻击目标转移为自己
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1129.png" class="image"><img alt="Icon skill 1129.png" src="https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1129.png/30px-Icon_skill_1129.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1129.png/45px-Icon_skill_1129.png 1.5x, https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1129.png/60px-Icon_skill_1129.png 2x" /></a></td>
+<td><span title="原文：HP自動回復" style="border-bottom: 1px dotted #B0B0B0;">自动回复HP</span></td>
+<td>一定回合之间回复HP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1130.png" class="image"><img alt="Icon skill 1130.png" src="https://cdn.mfjl.wiki/thumb/2/2b/Icon_skill_1130.png/30px-Icon_skill_1130.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/2b/Icon_skill_1130.png/45px-Icon_skill_1130.png 1.5x, https://cdn.mfjl.wiki/thumb/2/2b/Icon_skill_1130.png/60px-Icon_skill_1130.png 2x" /></a></td>
+<td>以自己的MP积累一定数值的状态开始战斗</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1131.png" class="image"><img alt="Icon skill 1131.png" src="https://cdn.mfjl.wiki/thumb/8/89/Icon_skill_1131.png/30px-Icon_skill_1131.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/89/Icon_skill_1131.png/45px-Icon_skill_1131.png 1.5x, https://cdn.mfjl.wiki/thumb/8/89/Icon_skill_1131.png/60px-Icon_skill_1131.png 2x" /></a></td>
+<td><span title="原文：スキルクイック" style="border-bottom: 1px dotted #B0B0B0;">技能冷却加速</span></td>
+<td>每个回合的开始时将自己所有冷却中的技能减少1回合CD
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1132.png" class="image"><img alt="Icon skill 1132.png" src="https://cdn.mfjl.wiki/thumb/0/06/Icon_skill_1132.png/30px-Icon_skill_1132.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/06/Icon_skill_1132.png/45px-Icon_skill_1132.png 1.5x, https://cdn.mfjl.wiki/thumb/0/06/Icon_skill_1132.png/60px-Icon_skill_1132.png 2x" /></a></td>
+<td><span title="原文：弱点属性で攻撃されたときMPUP" style="border-bottom: 1px dotted #B0B0B0;">被弱点属性攻击时MPUP</span></td>
+<td>受到弱点属性攻击时MP提升(回合结束显示数值)
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1133.png" class="image"><img alt="Icon skill 1133.png" src="https://cdn.mfjl.wiki/thumb/6/6c/Icon_skill_1133.png/30px-Icon_skill_1133.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/6c/Icon_skill_1133.png/45px-Icon_skill_1133.png 1.5x, https://cdn.mfjl.wiki/thumb/6/6c/Icon_skill_1133.png/60px-Icon_skill_1133.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1134.png" class="image"><img alt="Icon skill 1134.png" src="https://cdn.mfjl.wiki/thumb/2/21/Icon_skill_1134.png/30px-Icon_skill_1134.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/21/Icon_skill_1134.png/45px-Icon_skill_1134.png 1.5x, https://cdn.mfjl.wiki/thumb/2/21/Icon_skill_1134.png/60px-Icon_skill_1134.png 2x" /></a></td>
+<td><span title="原文：回避無効" style="border-bottom: 1px dotted #B0B0B0;">回避无效</span></td>
+<td>将攻击目标的回避无效
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1135.png" class="image"><img alt="Icon skill 1135.png" src="https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1135.png/30px-Icon_skill_1135.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1135.png/45px-Icon_skill_1135.png 1.5x, https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1135.png/60px-Icon_skill_1135.png 2x" /></a></td>
+<td><span title="原文：カウンター無効" style="border-bottom: 1px dotted #B0B0B0;">反击无效</span></td>
+<td>将攻击目标的反击无效
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1136.png" class="image"><img alt="Icon skill 1136.png" src="https://cdn.mfjl.wiki/thumb/4/4e/Icon_skill_1136.png/30px-Icon_skill_1136.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/4/4e/Icon_skill_1136.png/45px-Icon_skill_1136.png 1.5x, https://cdn.mfjl.wiki/thumb/4/4e/Icon_skill_1136.png/60px-Icon_skill_1136.png 2x" /></a></td>
+<td><span title="原文：魅了無効" style="border-bottom: 1px dotted #B0B0B0;">魅惑无效</span></td>
+<td>免疫<span title="原文：魅了" style="border-bottom: 1px dotted #B0B0B0;">魅惑</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1137.png" class="image"><img alt="Icon skill 1137.png" src="https://cdn.mfjl.wiki/thumb/f/f3/Icon_skill_1137.png/30px-Icon_skill_1137.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/f3/Icon_skill_1137.png/45px-Icon_skill_1137.png 1.5x, https://cdn.mfjl.wiki/thumb/f/f3/Icon_skill_1137.png/60px-Icon_skill_1137.png 2x" /></a></td>
+<td><span title="原文：スタン無効" style="border-bottom: 1px dotted #B0B0B0;">眩晕无效</span></td>
+<td>免疫<span title="原文：スタン" style="border-bottom: 1px dotted #B0B0B0;">眩晕</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1138.png" class="image"><img alt="Icon skill 1138.png" src="https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1138.png/30px-Icon_skill_1138.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1138.png/45px-Icon_skill_1138.png 1.5x, https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1138.png/60px-Icon_skill_1138.png 2x" /></a></td>
+<td><span title="原文：拘束無効" style="border-bottom: 1px dotted #B0B0B0;">拘束无效</span></td>
+<td>免疫<span title="原文：拘束" style="border-bottom: 1px dotted #B0B0B0;">拘束</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1139.png" class="image"><img alt="Icon skill 1139.png" src="https://cdn.mfjl.wiki/thumb/2/23/Icon_skill_1139.png/30px-Icon_skill_1139.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/23/Icon_skill_1139.png/45px-Icon_skill_1139.png 1.5x, https://cdn.mfjl.wiki/thumb/2/23/Icon_skill_1139.png/60px-Icon_skill_1139.png 2x" /></a></td>
+<td><span title="原文：毒無効" style="border-bottom: 1px dotted #B0B0B0;">毒无效</span></td>
+<td>免疫<span title="原文：毒" style="border-bottom: 1px dotted #B0B0B0;">毒</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1140.png" class="image"><img alt="Icon skill 1140.png" src="https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1140.png/30px-Icon_skill_1140.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1140.png/45px-Icon_skill_1140.png 1.5x, https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1140.png/60px-Icon_skill_1140.png 2x" /></a></td>
+<td><span title="原文：やけど無効" style="border-bottom: 1px dotted #B0B0B0;">烧伤无效</span></td>
+<td>免疫<span title="原文：やけど" style="border-bottom: 1px dotted #B0B0B0;">烧伤</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1141.png" class="image"><img alt="Icon skill 1141.png" src="https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1141.png/30px-Icon_skill_1141.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1141.png/45px-Icon_skill_1141.png 1.5x, https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1141.png/60px-Icon_skill_1141.png 2x" /></a></td>
+<td><span title="原文：呪い無効" style="border-bottom: 1px dotted #B0B0B0;">诅咒无效</span></td>
+<td>免疫<span title="原文：呪い" style="border-bottom: 1px dotted #B0B0B0;">诅咒</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1142.png" class="image"><img alt="Icon skill 1142.png" src="https://cdn.mfjl.wiki/thumb/b/b0/Icon_skill_1142.png/30px-Icon_skill_1142.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b0/Icon_skill_1142.png/45px-Icon_skill_1142.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b0/Icon_skill_1142.png/60px-Icon_skill_1142.png 2x" /></a></td>
+<td><span title="原文：霧無効" style="border-bottom: 1px dotted #B0B0B0;">雾无效</span></td>
+<td>免疫<span title="原文：霧" style="border-bottom: 1px dotted #B0B0B0;">雾</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1143.png" class="image"><img alt="Icon skill 1143.png" src="https://cdn.mfjl.wiki/thumb/e/e7/Icon_skill_1143.png/30px-Icon_skill_1143.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/e/e7/Icon_skill_1143.png/45px-Icon_skill_1143.png 1.5x, https://cdn.mfjl.wiki/thumb/e/e7/Icon_skill_1143.png/60px-Icon_skill_1143.png 2x" /></a></td>
+<td><span title="原文：暗闇無効" style="border-bottom: 1px dotted #B0B0B0;">黑暗无效</span></td>
+<td>免疫<span title="原文：暗闇" style="border-bottom: 1px dotted #B0B0B0;">黑暗</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1144.png" class="image"><img alt="Icon skill 1144.png" src="https://cdn.mfjl.wiki/thumb/a/a9/Icon_skill_1144.png/30px-Icon_skill_1144.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a9/Icon_skill_1144.png/45px-Icon_skill_1144.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a9/Icon_skill_1144.png/60px-Icon_skill_1144.png 2x" /></a></td>
+<td><span title="原文：幻惑無効" style="border-bottom: 1px dotted #B0B0B0;">幻惑无效</span></td>
+<td>免疫<span title="原文：幻惑" style="border-bottom: 1px dotted #B0B0B0;">幻惑</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1145.png" class="image"><img alt="Icon skill 1145.png" src="https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1145.png/30px-Icon_skill_1145.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1145.png/45px-Icon_skill_1145.png 1.5x, https://cdn.mfjl.wiki/thumb/b/bf/Icon_skill_1145.png/60px-Icon_skill_1145.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で魅了を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予魅惑状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1146.png" class="image"><img alt="Icon skill 1146.png" src="https://cdn.mfjl.wiki/thumb/c/cb/Icon_skill_1146.png/30px-Icon_skill_1146.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/cb/Icon_skill_1146.png/45px-Icon_skill_1146.png 1.5x, https://cdn.mfjl.wiki/thumb/c/cb/Icon_skill_1146.png/60px-Icon_skill_1146.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率でスタンを付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予眩晕状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1147.png" class="image"><img alt="Icon skill 1147.png" src="https://cdn.mfjl.wiki/thumb/0/04/Icon_skill_1147.png/30px-Icon_skill_1147.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/04/Icon_skill_1147.png/45px-Icon_skill_1147.png 1.5x, https://cdn.mfjl.wiki/thumb/0/04/Icon_skill_1147.png/60px-Icon_skill_1147.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で拘束を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予拘束状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1148.png" class="image"><img alt="Icon skill 1148.png" src="https://cdn.mfjl.wiki/thumb/2/22/Icon_skill_1148.png/30px-Icon_skill_1148.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/22/Icon_skill_1148.png/45px-Icon_skill_1148.png 1.5x, https://cdn.mfjl.wiki/thumb/2/22/Icon_skill_1148.png/60px-Icon_skill_1148.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で毒を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予毒状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1149.png" class="image"><img alt="Icon skill 1149.png" src="https://cdn.mfjl.wiki/thumb/a/a0/Icon_skill_1149.png/30px-Icon_skill_1149.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a0/Icon_skill_1149.png/45px-Icon_skill_1149.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a0/Icon_skill_1149.png/60px-Icon_skill_1149.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率でやけどを付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予烧伤状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1150.png" class="image"><img alt="Icon skill 1150.png" src="https://cdn.mfjl.wiki/thumb/1/1c/Icon_skill_1150.png/30px-Icon_skill_1150.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/1c/Icon_skill_1150.png/45px-Icon_skill_1150.png 1.5x, https://cdn.mfjl.wiki/thumb/1/1c/Icon_skill_1150.png/60px-Icon_skill_1150.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で呪いを付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予诅咒状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1151.png" class="image"><img alt="Icon skill 1151.png" src="https://cdn.mfjl.wiki/thumb/6/67/Icon_skill_1151.png/30px-Icon_skill_1151.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/67/Icon_skill_1151.png/45px-Icon_skill_1151.png 1.5x, https://cdn.mfjl.wiki/thumb/6/67/Icon_skill_1151.png/60px-Icon_skill_1151.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で霧を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予雾状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1152.png" class="image"><img alt="Icon skill 1152.png" src="https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1152.png/30px-Icon_skill_1152.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1152.png/45px-Icon_skill_1152.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b7/Icon_skill_1152.png/60px-Icon_skill_1152.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で暗闇を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予黑暗状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1153.png" class="image"><img alt="Icon skill 1153.png" src="https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1153.png/30px-Icon_skill_1153.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1153.png/45px-Icon_skill_1153.png 1.5x, https://cdn.mfjl.wiki/thumb/0/08/Icon_skill_1153.png/60px-Icon_skill_1153.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率で幻惑を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予幻惑状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1154.png" class="image"><img alt="Icon skill 1154.png" src="https://cdn.mfjl.wiki/thumb/e/e4/Icon_skill_1154.png/30px-Icon_skill_1154.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/e/e4/Icon_skill_1154.png/45px-Icon_skill_1154.png 1.5x, https://cdn.mfjl.wiki/thumb/e/e4/Icon_skill_1154.png/60px-Icon_skill_1154.png 2x" /></a></td>
+<td><span title="原文：攻撃時に確率でスキル不可を付与" style="border-bottom: 1px dotted #B0B0B0;">攻击时概率给予技能封印状态</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1155.png" class="image"><img alt="Icon skill 1155.png" src="https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1155.png/30px-Icon_skill_1155.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1155.png/45px-Icon_skill_1155.png 1.5x, https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1155.png/60px-Icon_skill_1155.png 2x" /></a></td>
+<td><span title="原文：マギア不可無効" style="border-bottom: 1px dotted #B0B0B0;">Magia封印无效</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1170.png" class="image"><img alt="Icon skill 1170.png" src="https://cdn.mfjl.wiki/thumb/c/c9/Icon_skill_1170.png/30px-Icon_skill_1170.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c9/Icon_skill_1170.png/45px-Icon_skill_1170.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c9/Icon_skill_1170.png/60px-Icon_skill_1170.png 2x" /></a></td>
+<td><span title="原文：かばう" style="border-bottom: 1px dotted #B0B0B0;">保护</span></td>
+<td>代替攻击目标受到这次伤害，这时攻击目标和自己都可以获得受击MP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1171.png" class="image"><img alt="Icon skill 1171.png" src="https://cdn.mfjl.wiki/thumb/5/53/Icon_skill_1171.png/30px-Icon_skill_1171.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/53/Icon_skill_1171.png/45px-Icon_skill_1171.png 1.5x, https://cdn.mfjl.wiki/thumb/5/53/Icon_skill_1171.png/60px-Icon_skill_1171.png 2x" /></a></td>
+<td><span title="原文：HP回復禁止無效" style="border-bottom: 1px dotted #B0B0B0;">HP回复禁止无效</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1172.png" class="image"><img alt="Icon skill 1172.png" src="https://cdn.mfjl.wiki/thumb/3/32/Icon_skill_1172.png/30px-Icon_skill_1172.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/3/32/Icon_skill_1172.png/45px-Icon_skill_1172.png 1.5x, https://cdn.mfjl.wiki/thumb/3/32/Icon_skill_1172.png/60px-Icon_skill_1172.png 2x" /></a></td>
+<td><span title="原文：敵状態異常時ダメージUP" style="border-bottom: 1px dotted #B0B0B0;">敌方状态异常时伤害上升</span></td>
+<td>攻击目标<a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8" title="状态异常">状态异常</a>时，增加<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1177.png" class="image"><img alt="Icon skill 1177.png" src="https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1177.png/30px-Icon_skill_1177.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1177.png/45px-Icon_skill_1177.png 1.5x, https://cdn.mfjl.wiki/thumb/d/d5/Icon_skill_1177.png/60px-Icon_skill_1177.png 2x" /></a></td>
+<td><span title="原文：ダメージカット無視" style="border-bottom: 1px dotted #B0B0B0;">无视伤害削减</span></td>
+<td><a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算伤害</a>时无视对方伤害削减
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1180.png" class="image"><img alt="Icon skill 1180.png" src="https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1180.png/30px-Icon_skill_1180.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1180.png/45px-Icon_skill_1180.png 1.5x, https://cdn.mfjl.wiki/thumb/9/95/Icon_skill_1180.png/60px-Icon_skill_1180.png 2x" /></a></td>
+<td><span title="原文：MP自動回復" style="border-bottom: 1px dotted #B0B0B0;">自动回复MP</span></td>
+<td>回合结束时回复MP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1183.png" class="image"><img alt="Icon skill 1183.png" src="https://cdn.mfjl.wiki/thumb/2/29/Icon_skill_1183.png/30px-Icon_skill_1183.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/2/29/Icon_skill_1183.png/45px-Icon_skill_1183.png 1.5x, https://cdn.mfjl.wiki/thumb/2/29/Icon_skill_1183.png/60px-Icon_skill_1183.png 2x" /></a></td>
+<td><span title="原文：スキル不可無効" style="border-bottom: 1px dotted #B0B0B0;">技能封印无效</span></td>
+<td>免疫<span title="原文：スキル不可" style="border-bottom: 1px dotted #B0B0B0;">技能封印</span>状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1201.png" class="image"><img alt="Icon skill 1201.png" src="https://cdn.mfjl.wiki/thumb/c/c4/Icon_skill_1201.png/30px-Icon_skill_1201.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c4/Icon_skill_1201.png/45px-Icon_skill_1201.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c4/Icon_skill_1201.png/60px-Icon_skill_1201.png 2x" /></a></td>
+<td><span title="原文：アクセルダメージカット" style="border-bottom: 1px dotted #B0B0B0;">Accele伤害削减</span></td>
+<td>降低Accele造成的<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1202.png" class="image"><img alt="Icon skill 1202.png" src="https://cdn.mfjl.wiki/thumb/f/fe/Icon_skill_1202.png/30px-Icon_skill_1202.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/fe/Icon_skill_1202.png/45px-Icon_skill_1202.png 1.5x, https://cdn.mfjl.wiki/thumb/f/fe/Icon_skill_1202.png/60px-Icon_skill_1202.png 2x" /></a></td>
+<td><span title="原文：Blastダメージカット" style="border-bottom: 1px dotted #B0B0B0;">Blast伤害削减</span></td>
+<td>降低Blast造成的<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1203.png" class="image"><img alt="Icon skill 1203.png" src="https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1203.png/30px-Icon_skill_1203.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1203.png/45px-Icon_skill_1203.png 1.5x, https://cdn.mfjl.wiki/thumb/8/83/Icon_skill_1203.png/60px-Icon_skill_1203.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td><span style="color:Grey;">疑似对敌方Charge<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>伤害削减</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1204.png" class="image"><img alt="Icon skill 1204.png" src="https://cdn.mfjl.wiki/thumb/5/5b/Icon_skill_1204.png/30px-Icon_skill_1204.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/5b/Icon_skill_1204.png/45px-Icon_skill_1204.png 1.5x, https://cdn.mfjl.wiki/thumb/5/5b/Icon_skill_1204.png/60px-Icon_skill_1204.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td><span style="color:Grey;">疑似对敌方Charge后的<a href="/wiki/%E7%9B%98" class="mw-redirect" title="盘">盘</a>伤害削减</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1205.png" class="image"><img alt="Icon skill 1205.png" src="https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1205.png/30px-Icon_skill_1205.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1205.png/45px-Icon_skill_1205.png 1.5x, https://cdn.mfjl.wiki/thumb/7/7a/Icon_skill_1205.png/60px-Icon_skill_1205.png 2x" /></a></td>
+<td><span title="原文：マギアダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">Magia伤害削减状态</span></td>
+<td>降低<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">Magia伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1206.png" class="image"><img alt="Icon skill 1206.png" src="https://cdn.mfjl.wiki/thumb/e/ec/Icon_skill_1206.png/30px-Icon_skill_1206.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/e/ec/Icon_skill_1206.png/45px-Icon_skill_1206.png 1.5x, https://cdn.mfjl.wiki/thumb/e/ec/Icon_skill_1206.png/60px-Icon_skill_1206.png 2x" /></a></td>
+<td><span title="原文：火属性ダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">火属性伤害削减状态</span></td>
+<td>降低火属性造成伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1207.png" class="image"><img alt="Icon skill 1207.png" src="https://cdn.mfjl.wiki/thumb/d/d0/Icon_skill_1207.png/30px-Icon_skill_1207.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/d0/Icon_skill_1207.png/45px-Icon_skill_1207.png 1.5x, https://cdn.mfjl.wiki/thumb/d/d0/Icon_skill_1207.png/60px-Icon_skill_1207.png 2x" /></a></td>
+<td><span title="原文：水属性ダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">水属性伤害削减状态</span></td>
+<td>降低水属性造成伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1208.png" class="image"><img alt="Icon skill 1208.png" src="https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1208.png/30px-Icon_skill_1208.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1208.png/45px-Icon_skill_1208.png 1.5x, https://cdn.mfjl.wiki/thumb/1/14/Icon_skill_1208.png/60px-Icon_skill_1208.png 2x" /></a></td>
+<td><span title="原文：木属性ダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">木属性伤害削减状态</span></td>
+<td>降低木属性造成伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1209.png" class="image"><img alt="Icon skill 1209.png" src="https://cdn.mfjl.wiki/thumb/a/ae/Icon_skill_1209.png/30px-Icon_skill_1209.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/ae/Icon_skill_1209.png/45px-Icon_skill_1209.png 1.5x, https://cdn.mfjl.wiki/thumb/a/ae/Icon_skill_1209.png/60px-Icon_skill_1209.png 2x" /></a></td>
+<td><span title="原文：光属性ダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">光属性伤害削减状态</span></td>
+<td>降低光属性造成伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1210.png" class="image"><img alt="Icon skill 1210.png" src="https://cdn.mfjl.wiki/thumb/9/9d/Icon_skill_1210.png/30px-Icon_skill_1210.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/9d/Icon_skill_1210.png/45px-Icon_skill_1210.png 1.5x, https://cdn.mfjl.wiki/thumb/9/9d/Icon_skill_1210.png/60px-Icon_skill_1210.png 2x" /></a></td>
+<td><span title="原文：闇属性ダメージカット状態" style="border-bottom: 1px dotted #B0B0B0;">暗属性伤害削减状态</span></td>
+<td>降低暗属性造成伤害的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1211.png" class="image"><img alt="Icon skill 1211.png" src="https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1211.png/30px-Icon_skill_1211.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1211.png/45px-Icon_skill_1211.png 1.5x, https://cdn.mfjl.wiki/thumb/7/77/Icon_skill_1211.png/60px-Icon_skill_1211.png 2x" /></a></td>
+<td>？？（未使用）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1212.png" class="image"><img alt="Icon skill 1212.png" src="https://cdn.mfjl.wiki/thumb/8/8d/Icon_skill_1212.png/30px-Icon_skill_1212.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8d/Icon_skill_1212.png/45px-Icon_skill_1212.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8d/Icon_skill_1212.png/60px-Icon_skill_1212.png 2x" /></a></td>
+<td><span title="原文：クリティカル無効" style="border-bottom: 1px dotted #B0B0B0;">暴击无效</span></td>
+<td>受到的暴击有一次无效，当作正常攻击计算伤害
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1213.png" class="image"><img alt="Icon skill 1213.png" src="https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1213.png/30px-Icon_skill_1213.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1213.png/45px-Icon_skill_1213.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b6/Icon_skill_1213.png/60px-Icon_skill_1213.png 2x" /></a></td>
+<td><span title="原文：対魔女ダメージアップ" style="border-bottom: 1px dotted #B0B0B0;">对魔女伤害上升</span></td>
+<td>攻击魔女或使魔时增加<a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">计算后的伤害</a>的数值
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1217.png" class="image"><img alt="Icon skill 1217.png" src="https://cdn.mfjl.wiki/thumb/a/ad/Icon_skill_1217.png/30px-Icon_skill_1217.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/ad/Icon_skill_1217.png/45px-Icon_skill_1217.png 1.5x, https://cdn.mfjl.wiki/thumb/a/ad/Icon_skill_1217.png/60px-Icon_skill_1217.png 2x" /></a></td>
+<td><span title="原文：Charge combo時Charge数增加" style="border-bottom: 1px dotted #B0B0B0;">Charge combo时Charge数增加</span></td>
+<td>有该状态的角色参与的Charge combo时Charge数增加一定量
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1218.png" class="image"><img alt="Icon skill 1218.png" src="https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1218.png/30px-Icon_skill_1218.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1218.png/45px-Icon_skill_1218.png 1.5x, https://cdn.mfjl.wiki/thumb/b/bd/Icon_skill_1218.png/60px-Icon_skill_1218.png 2x" /></a></td>
+<td><span title="原文：デバフ効果無効" style="border-bottom: 1px dotted #B0B0B0;">Debuff无效</span></td>
+<td>Debuff有一次不能作用于自身
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1219.png" class="image"><img alt="Icon skill 1219.png" src="https://cdn.mfjl.wiki/thumb/a/aa/Icon_skill_1219.png/30px-Icon_skill_1219.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/aa/Icon_skill_1219.png/45px-Icon_skill_1219.png 1.5x, https://cdn.mfjl.wiki/thumb/a/aa/Icon_skill_1219.png/60px-Icon_skill_1219.png 2x" /></a></td>
+<td><span title="原文：挑発無視" style="border-bottom: 1px dotted #B0B0B0;">无视挑衅</span></td>
+<td>无视被攻击方的挑衅
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1225.png" class="image"><img alt="Icon skill 1225.png" src="https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1225.png/30px-Icon_skill_1225.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1225.png/45px-Icon_skill_1225.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b1/Icon_skill_1225.png/60px-Icon_skill_1225.png 2x" /></a></td>
+<td><span title="原文：Blast攻撃時MP獲得" style="border-bottom: 1px dotted #B0B0B0;">Blast攻击时MP获得</span></td>
+<td>使用Blast攻击时可以获得MP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1227.png" class="image"><img alt="Icon skill 1227.png" src="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1227.png/30px-Icon_skill_1227.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1227.png/45px-Icon_skill_1227.png 1.5x, https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1227.png/60px-Icon_skill_1227.png 2x" /></a></td>
+<td><span title="原文：被ダメージ時MPUP" style="border-bottom: 1px dotted #B0B0B0;">被攻击时MPUP</span></td>
+<td>被攻击时获得的MP提升
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1229.png" class="image"><img alt="Icon skill 1229.png" src="https://cdn.mfjl.wiki/thumb/c/c5/Icon_skill_1229.png/30px-Icon_skill_1229.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c5/Icon_skill_1229.png/45px-Icon_skill_1229.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c5/Icon_skill_1229.png/60px-Icon_skill_1229.png 2x" /></a></td>
+<td><span title="原文：ヴァリアブル" style="border-bottom: 1px dotted #B0B0B0;">Variable</span></td>
+<td>攻击时对全部的属性有利状态
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1231.png" class="image"><img alt="Icon skill 1231.png" src="https://cdn.mfjl.wiki/thumb/a/a1/Icon_skill_1231.png/30px-Icon_skill_1231.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a1/Icon_skill_1231.png/45px-Icon_skill_1231.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a1/Icon_skill_1231.png/60px-Icon_skill_1231.png 2x" /></a></td>
+<td><span title="原文：状態異常無効" style="border-bottom: 1px dotted #B0B0B0;">状态异常无效</span></td>
+<td>状态异常有一次不能作用于自身
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1232.png" class="image"><img alt="Icon skill 1232.png" src="https://cdn.mfjl.wiki/thumb/6/6d/Icon_skill_1232.png/30px-Icon_skill_1232.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/6d/Icon_skill_1232.png/45px-Icon_skill_1232.png 1.5x, https://cdn.mfjl.wiki/thumb/6/6d/Icon_skill_1232.png/60px-Icon_skill_1232.png 2x" /></a></td>
+<td><span title="原文：Charge消費なし" style="border-bottom: 1px dotted #B0B0B0;">Charge无消耗</span></td>
+<td>使用Accele或者Blast时，不会消耗Charge计数
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1240.png" class="image"><img alt="Icon skill 1240.png" src="https://cdn.mfjl.wiki/thumb/3/38/Icon_skill_1240.png/30px-Icon_skill_1240.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/3/38/Icon_skill_1240.png/45px-Icon_skill_1240.png 1.5x, https://cdn.mfjl.wiki/thumb/3/38/Icon_skill_1240.png/60px-Icon_skill_1240.png 2x" /></a></td>
+<td><span title="原文：バリア" style="border-bottom: 1px dotted #B0B0B0;">屏障</span></td>
+<td>受到攻击造成的伤害时，优先扣减屏障的数值，屏障数值为0后再扣减HP
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1244.png" class="image"><img alt="Icon skill 1244.png" src="https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1244.png/30px-Icon_skill_1244.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1244.png/45px-Icon_skill_1244.png 1.5x, https://cdn.mfjl.wiki/thumb/a/a6/Icon_skill_1244.png/60px-Icon_skill_1244.png 2x" /></a></td>
+<td><span title="原文：デバフ反射" style="border-bottom: 1px dotted #B0B0B0;">Debuff反射</span></td>
+<td>Debuff作用于自身之际，将对象反射为发起者
+</td></tr></tbody></table>
+<h2><span id="状态异常"></span><span class="mw-headline" id=".E7.8A.B6.E6.80.81.E5.BC.82.E5.B8.B8">状态异常</span></h2>
+<p>主页面：<a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8" title="状态异常">状态异常</a>
+</p><p><b>状态异常</b>（日文：<span lang="ja">状態異常</span>）在是指战斗中被赋予的不利条件，在角色或怪物上方以紫色图标显示。<b>任何状态异常</b>下都<b>无法回避</b>。
+</p><p>注意《魔法纪录》中“Debuff”（<span lang="ja">デバフ</span>）特指能力被削减的状态（例如“攻击力DOWN”），为蓝色图标。因此解除状态异常和解除Debuff的技能也不能互换使用。
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1106.png" class="image"><img alt="Icon skill 1106.png" src="https://cdn.mfjl.wiki/thumb/1/12/Icon_skill_1106.png/30px-Icon_skill_1106.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/12/Icon_skill_1106.png/45px-Icon_skill_1106.png 1.5x, https://cdn.mfjl.wiki/thumb/1/12/Icon_skill_1106.png/60px-Icon_skill_1106.png 2x" /></a></td>
+<td>毒</td>
+<td>特定回合内，遭受伤害 (5%最大hp，最高10000)。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1107.png" class="image"><img alt="Icon skill 1107.png" src="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1107.png/30px-Icon_skill_1107.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1107.png/45px-Icon_skill_1107.png 1.5x, https://cdn.mfjl.wiki/thumb/c/ce/Icon_skill_1107.png/60px-Icon_skill_1107.png 2x" /></a></td>
+<td>烧伤（<span lang="ja">やけど</span>）</td>
+<td>特定回合内，遭受伤害 (10%最大hp，最高10000)，来自不利属性的伤害上升。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1108.png" class="image"><img alt="Icon skill 1108.png" src="https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1108.png/30px-Icon_skill_1108.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1108.png/45px-Icon_skill_1108.png 1.5x, https://cdn.mfjl.wiki/thumb/0/01/Icon_skill_1108.png/60px-Icon_skill_1108.png 2x" /></a></td>
+<td>诅咒（<span lang="ja">呪い</span>）</td>
+<td>特定回合内，遭受伤害 (15%最大hp，最高10000)，来自不利属性的伤害上升。此外，HP无法回复。
+</td></tr>
+<tr>
+<td>
+</td>
+<td>
+</td>
+<td>注：特定回合内，毒，烧伤，诅咒伤害之和最高10000。
+</td></tr>
+<tr>
+<td colspan="3">
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1103.png" class="image"><img alt="Icon skill 1103.png" src="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1103.png/30px-Icon_skill_1103.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1103.png/45px-Icon_skill_1103.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1103.png/60px-Icon_skill_1103.png 2x" /></a></td>
+<td>魅惑（<span lang="ja">魅了</span>）</td>
+<td>特定回合内，无法行动。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1104.png" class="image"><img alt="Icon skill 1104.png" src="https://cdn.mfjl.wiki/thumb/d/d4/Icon_skill_1104.png/30px-Icon_skill_1104.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/d/d4/Icon_skill_1104.png/45px-Icon_skill_1104.png 1.5x, https://cdn.mfjl.wiki/thumb/d/d4/Icon_skill_1104.png/60px-Icon_skill_1104.png 2x" /></a></td>
+<td>眩晕（<span lang="ja">スタン</span>）</td>
+<td>特定回合内，无法行动，来自不利属性的伤害上升。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1105.png" class="image"><img alt="Icon skill 1105.png" src="https://cdn.mfjl.wiki/thumb/4/44/Icon_skill_1105.png/30px-Icon_skill_1105.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/4/44/Icon_skill_1105.png/45px-Icon_skill_1105.png 1.5x, https://cdn.mfjl.wiki/thumb/4/44/Icon_skill_1105.png/60px-Icon_skill_1105.png 2x" /></a></td>
+<td>拘束</td>
+<td>特定回合内，无法行动，来自不利属性的伤害上升。此外，HP无法回复。
+</td></tr>
+<tr>
+<td colspan="3">
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1109.png" class="image"><img alt="Icon skill 1109.png" src="https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1109.png/30px-Icon_skill_1109.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1109.png/45px-Icon_skill_1109.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8f/Icon_skill_1109.png/60px-Icon_skill_1109.png 2x" /></a></td>
+<td>雾（<span lang="ja">霧</span>）</td>
+<td>攻击变得难以击中 (25% miss)。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1110.png" class="image"><img alt="Icon skill 1110.png" src="https://cdn.mfjl.wiki/thumb/6/66/Icon_skill_1110.png/30px-Icon_skill_1110.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/66/Icon_skill_1110.png/45px-Icon_skill_1110.png 1.5x, https://cdn.mfjl.wiki/thumb/6/66/Icon_skill_1110.png/60px-Icon_skill_1110.png 2x" /></a></td>
+<td>黑暗（<span lang="ja">暗闇</span>）</td>
+<td>攻击变得难以击中 (35% miss)，来自不利属性的伤害上升。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1111.png" class="image"><img alt="Icon skill 1111.png" src="https://cdn.mfjl.wiki/thumb/1/1e/Icon_skill_1111.png/30px-Icon_skill_1111.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/1e/Icon_skill_1111.png/45px-Icon_skill_1111.png 1.5x, https://cdn.mfjl.wiki/thumb/1/1e/Icon_skill_1111.png/60px-Icon_skill_1111.png 2x" /></a></td>
+<td>幻惑</td>
+<td>攻击变得难以击中 (50% miss)，来自不利属性的伤害上升。此外，HP无法回复。
+</td></tr>
+<tr>
+<td colspan="3">
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1112.png" class="image"><img alt="Icon skill 1112.png" src="https://cdn.mfjl.wiki/thumb/b/ba/Icon_skill_1112.png/30px-Icon_skill_1112.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/ba/Icon_skill_1112.png/45px-Icon_skill_1112.png 1.5x, https://cdn.mfjl.wiki/thumb/b/ba/Icon_skill_1112.png/60px-Icon_skill_1112.png 2x" /></a></td>
+<td>技能封印（<span lang="ja">スキル不可</span>）</td>
+<td>无法使用<a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6" title="记忆结晶">记忆结晶</a>和<a href="/wiki/%E7%B2%BE%E7%A5%9E%E5%BC%BA%E5%8C%96" title="精神强化">精神强化</a>的技能。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1113.png" class="image"><img alt="Icon skill 1113.png" src="https://cdn.mfjl.wiki/thumb/e/ef/Icon_skill_1113.png/30px-Icon_skill_1113.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/e/ef/Icon_skill_1113.png/45px-Icon_skill_1113.png 1.5x, https://cdn.mfjl.wiki/thumb/e/ef/Icon_skill_1113.png/60px-Icon_skill_1113.png 2x" /></a></td>
+<td>Magia封印（<span lang="ja">マギア不可</span>）</td>
+<td>无法放出<a href="/wiki/Magia" title="Magia">Magia</a>和<a href="/wiki/Doppel" class="mw-redirect" title="Doppel">Doppel</a>。
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1239.png" class="image"><img alt="Icon skill 1239.png" src="https://cdn.mfjl.wiki/thumb/4/42/Icon_skill_1239.png/30px-Icon_skill_1239.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/4/42/Icon_skill_1239.png/45px-Icon_skill_1239.png 1.5x, https://cdn.mfjl.wiki/thumb/4/42/Icon_skill_1239.png/60px-Icon_skill_1239.png 2x" /></a></td>
+<td>虚弱（<span lang="ja">虚弱</span>）</td>
+<td>持有的异常状态种类越多，受到的伤害越高。
+</td></tr>
+<tr>
+<td colspan="3">
+</td></tr>
+<tr>
+<td><a href="/wiki/File:HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png" class="image"><img alt="HP回復禁止.png" src="https://cdn.mfjl.wiki/thumb/1/11/HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/30px-HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/11/HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/45px-HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png 1.5x, https://cdn.mfjl.wiki/thumb/1/11/HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/60px-HP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png 2x" /></a></td>
+<td>HP回复禁止（<span lang="ja">HP回復禁止</span>）</td>
+<td>HP无法回复
+</td></tr>
+<tr>
+<td><a href="/wiki/File:MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png" class="image"><img alt="MP回復禁止.png" src="https://cdn.mfjl.wiki/thumb/5/53/MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/30px-MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/53/MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/45px-MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png 1.5x, https://cdn.mfjl.wiki/thumb/5/53/MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png/60px-MP%E5%9B%9E%E5%BE%A9%E7%A6%81%E6%AD%A2.png 2x" /></a></td>
+<td>MP回复禁止（<span lang="ja">MP回復禁止</span>）</td>
+<td>MP无法回复（攻击时的MP获取不受影响）
+</td></tr></tbody></table>
+<h2><span id="重抽"></span><span class="mw-headline" id=".E9.87.8D.E6.8A.BD">重抽</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1156.png" class="image" title="同じ属性ドロー"><img alt="同じ属性ドロー" src="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1156.png/30px-Icon_skill_1156.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1156.png/45px-Icon_skill_1156.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c3/Icon_skill_1156.png/60px-Icon_skill_1156.png 2x" /></a></td>
+<td><span title="原文：同じ属性ドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为同属性</span>（火）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1157.png" class="image" title="同じ属性ドロー"><img alt="同じ属性ドロー" src="https://cdn.mfjl.wiki/thumb/9/90/Icon_skill_1157.png/30px-Icon_skill_1157.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/9/90/Icon_skill_1157.png/45px-Icon_skill_1157.png 1.5x, https://cdn.mfjl.wiki/thumb/9/90/Icon_skill_1157.png/60px-Icon_skill_1157.png 2x" /></a></td>
+<td><span title="原文：同じ属性ドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为同属性</span>（水）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1158.png" class="image" title="同じ属性ドロー"><img alt="同じ属性ドロー" src="https://cdn.mfjl.wiki/thumb/c/c6/Icon_skill_1158.png/30px-Icon_skill_1158.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c6/Icon_skill_1158.png/45px-Icon_skill_1158.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c6/Icon_skill_1158.png/60px-Icon_skill_1158.png 2x" /></a></td>
+<td><span title="原文：同じ属性ドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为同属性</span>（木）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1159.png" class="image" title="同じ属性ドロー"><img alt="同じ属性ドロー" src="https://cdn.mfjl.wiki/thumb/1/1d/Icon_skill_1159.png/30px-Icon_skill_1159.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/1/1d/Icon_skill_1159.png/45px-Icon_skill_1159.png 1.5x, https://cdn.mfjl.wiki/thumb/1/1d/Icon_skill_1159.png/60px-Icon_skill_1159.png 2x" /></a></td>
+<td><span title="原文：同じ属性ドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为同属性</span>（光）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1160.png" class="image" title="同じ属性ドロー"><img alt="同じ属性ドロー" src="https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1160.png/30px-Icon_skill_1160.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1160.png/45px-Icon_skill_1160.png 1.5x, https://cdn.mfjl.wiki/thumb/0/0e/Icon_skill_1160.png/60px-Icon_skill_1160.png 2x" /></a></td>
+<td><span title="原文：同じ属性ドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为同属性</span>（暗）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1161.png" class="image" title="自分のDiscドロー"><img alt="自分のDiscドロー" src="https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1161.png/30px-Icon_skill_1161.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1161.png/45px-Icon_skill_1161.png 1.5x, https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1161.png/60px-Icon_skill_1161.png 2x" /></a></td>
+<td><span title="原文：自分のDiscドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为自己的Disc</span>（火）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1162.png" class="image" title="自分のDiscドロー"><img alt="自分のDiscドロー" src="https://cdn.mfjl.wiki/thumb/c/c7/Icon_skill_1162.png/30px-Icon_skill_1162.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/c/c7/Icon_skill_1162.png/45px-Icon_skill_1162.png 1.5x, https://cdn.mfjl.wiki/thumb/c/c7/Icon_skill_1162.png/60px-Icon_skill_1162.png 2x" /></a></td>
+<td><span title="原文：自分のDiscドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为自己的Disc</span>（水）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1163.png" class="image" title="自分のDiscドロー"><img alt="自分のDiscドロー" src="https://cdn.mfjl.wiki/thumb/7/7d/Icon_skill_1163.png/30px-Icon_skill_1163.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/7d/Icon_skill_1163.png/45px-Icon_skill_1163.png 1.5x, https://cdn.mfjl.wiki/thumb/7/7d/Icon_skill_1163.png/60px-Icon_skill_1163.png 2x" /></a></td>
+<td><span title="原文：自分のDiscドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为自己的Disc</span>（木）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1164.png" class="image" title="自分のDiscドロー"><img alt="自分のDiscドロー" src="https://cdn.mfjl.wiki/thumb/6/61/Icon_skill_1164.png/30px-Icon_skill_1164.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/61/Icon_skill_1164.png/45px-Icon_skill_1164.png 1.5x, https://cdn.mfjl.wiki/thumb/6/61/Icon_skill_1164.png/60px-Icon_skill_1164.png 2x" /></a></td>
+<td><span title="原文：自分のDiscドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为自己的Disc</span>（光）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1165.png" class="image" title="自分のDiscドロー"><img alt="自分のDiscドロー" src="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1165.png/30px-Icon_skill_1165.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1165.png/45px-Icon_skill_1165.png 1.5x, https://cdn.mfjl.wiki/thumb/f/ff/Icon_skill_1165.png/60px-Icon_skill_1165.png 2x" /></a></td>
+<td><span title="原文：自分のDiscドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为自己的Disc</span>（暗）</td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1166.png" class="image" title="Acceleドロー"><img alt="Acceleドロー" src="https://cdn.mfjl.wiki/thumb/e/e0/Icon_skill_1166.png/30px-Icon_skill_1166.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/e/e0/Icon_skill_1166.png/45px-Icon_skill_1166.png 1.5x, https://cdn.mfjl.wiki/thumb/e/e0/Icon_skill_1166.png/60px-Icon_skill_1166.png 2x" /></a></td>
+<td><span title="原文：Acceleドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为Accele</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1167.png" class="image" title="Chargeドロー"><img alt="Chargeドロー" src="https://cdn.mfjl.wiki/thumb/b/b3/Icon_skill_1167.png/30px-Icon_skill_1167.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/b/b3/Icon_skill_1167.png/45px-Icon_skill_1167.png 1.5x, https://cdn.mfjl.wiki/thumb/b/b3/Icon_skill_1167.png/60px-Icon_skill_1167.png 2x" /></a></td>
+<td><span title="原文：Chargeドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为Charge</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1168.png" class="image" title="Blastドロー"><img alt="Blastドロー" src="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1168.png/30px-Icon_skill_1168.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1168.png/45px-Icon_skill_1168.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1168.png/60px-Icon_skill_1168.png 2x" /></a></td>
+<td><span title="原文：Blastドロー" style="border-bottom: 1px dotted #B0B0B0;">重抽为Blast</span></td>
+<td>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1169.png" class="image" title="再度Discを引く"><img alt="再度Discを引く" src="https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1169.png/30px-Icon_skill_1169.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1169.png/45px-Icon_skill_1169.png 1.5x, https://cdn.mfjl.wiki/thumb/7/7c/Icon_skill_1169.png/60px-Icon_skill_1169.png 2x" /></a></td>
+<td><span title="原文：再度Discを引く" style="border-bottom: 1px dotted #B0B0B0;">再次抽取Disc</span></td>
+<td>
+</td></tr></tbody></table>
+<h2><span id="特殊效果"></span><span class="mw-headline" id=".E7.89.B9.E6.AE.8A.E6.95.88.E6.9E.9C">特殊效果</span></h2>
+<table class="wikitable">
+<tbody><tr>
+<th></th>
+<th>名称</th>
+<th>效果
+</th></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1173.png" class="image" title="獲得エピソードポイントUP"><img alt="獲得エピソードポイントUP" src="https://cdn.mfjl.wiki/thumb/6/68/Icon_skill_1173.png/30px-Icon_skill_1173.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/6/68/Icon_skill_1173.png/45px-Icon_skill_1173.png 1.5x, https://cdn.mfjl.wiki/thumb/6/68/Icon_skill_1173.png/60px-Icon_skill_1173.png 2x" /></a></td>
+<td><span title="原文：獲得エピソードポイントUP" style="border-bottom: 1px dotted #B0B0B0;">获得篇章点UP</span></td>
+<td>仅对已装备角色有效
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1175.png" class="image" title="カースチップ(CC)の獲得量UP"><img alt="カースチップ(CC)の獲得量UP" src="https://cdn.mfjl.wiki/thumb/5/5a/Icon_skill_1175.png/30px-Icon_skill_1175.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/5a/Icon_skill_1175.png/45px-Icon_skill_1175.png 1.5x, https://cdn.mfjl.wiki/thumb/5/5a/Icon_skill_1175.png/60px-Icon_skill_1175.png 2x" /></a></td>
+<td><span title="原文：カースチップ(CC)の獲得量UP" style="border-bottom: 1px dotted #B0B0B0;">CC获得量UP</span></td>
+<td><span title="原文：クエストでのDROP分、サポート装備分は適用されません" style="border-bottom: 1px dotted #B0B0B0;">于Quest中掉落者，以及支援装备者不适用</span>
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1245.png" class="image" title="バフ効果を延長"><img alt="バフ効果を延長" src="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1245.png/30px-Icon_skill_1245.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1245.png/45px-Icon_skill_1245.png 1.5x, https://cdn.mfjl.wiki/thumb/8/8c/Icon_skill_1245.png/60px-Icon_skill_1245.png 2x" /></a></td>
+<td><span title="原文：バフ効果を延長" style="border-bottom: 1px dotted #B0B0B0;">Buff效果延长</span></td>
+<td>延长角色当前Buff的有效时间
+</td></tr>
+<tr>
+<td><a href="/wiki/File:Icon_skill_1246.png" class="image" title="デバフ効果を延長"><img alt="デバフ効果を延長" src="https://cdn.mfjl.wiki/thumb/5/52/Icon_skill_1246.png/30px-Icon_skill_1246.png" decoding="async" width="30" height="30" srcset="https://cdn.mfjl.wiki/thumb/5/52/Icon_skill_1246.png/45px-Icon_skill_1246.png 1.5x, https://cdn.mfjl.wiki/thumb/5/52/Icon_skill_1246.png/60px-Icon_skill_1246.png 2x" /></a></td>
+<td><span title="原文：デバフ効果を延長" style="border-bottom: 1px dotted #B0B0B0;">Debuff效果延长</span></td>
+<td>延长角色当前Debuff的有效时间
+</td></tr></tbody></table>
+<h2><span id="参见"></span><span class="mw-headline" id=".E5.8F.82.E8.A7.81">参见</span></h2>
+<ul><li><a href="/wiki/%E6%8A%80%E8%83%BD%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6" title="技能触发机制">技能触发机制</a></li>
+<li><a href="/wiki/%E6%8A%80%E8%83%BD%E7%AD%89%E7%BA%A7%E6%95%B0%E5%80%BC%E8%A1%A8" title="技能等级数值表">技能等级数值表</a></li></ul>
+<h2><span id="外部链接"></span><span class="mw-headline" id=".E5.A4.96.E9.83.A8.E9.93.BE.E6.8E.A5">外部链接</span></h2>
+<ul><li><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://magireco.wikia.com/wiki/Skills_and_Status_Effects">Skills and Status Effects</a> - Magia Record English Wiki</li></ul>
+<hr />
+<table cellspacing="0" class="navbox" style="border-spacing:0;box-sizing:border-box"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95" title="Template:魔法纪录"><abbr title="查看该模板" style=";;background:none transparent;border:none;">查</abbr></a></li><li class="nv-talk"><a href="/index.php?title=Template_talk:%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95&amp;action=edit&amp;redlink=1" class="new" title="Template talk:魔法纪录（页面不存在）"><abbr title="讨论该模板" style=";;background:none transparent;border:none;">论</abbr></a></li><li class="nv-edit"><a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="https://magireco.moe/index.php?title=Template:%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95&amp;action=edit"><abbr title="编辑该模板" style=";;background:none transparent;border:none;">编</abbr></a></li></ul></div><div style="font-size:110%"><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95" title="魔法纪录">魔法纪录</a> <a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86" title="魔法少女小圆">魔法少女小圆</a>外传</div></th></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">游戏<wbr />系统</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group">首页</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E9%98%9F%E4%BC%8D" title="队伍">队伍</a></li>
+<li><a href="/wiki/%E9%95%9C%E7%95%8C" title="镜界">镜界</a></li>
+<li><a href="/wiki/%E5%89%A7%E6%83%85" title="剧情">剧情</a></li>
+<li><a href="/wiki/%E6%B4%BB%E5%8A%A8" title="活动">活动</a>
+<ul><li><a href="/wiki/%E6%97%A5%E6%9C%8D%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8" title="日服活动列表">日</a></li>
+<li><a href="/wiki/%E7%B9%81%E4%B8%AD%E6%9C%8D%E6%B4%BB%E5%8B%95%E5%88%97%E8%A1%A8" title="繁中服活動列表">繁中</a></li>
+<li><a href="/wiki/%E7%AE%80%E4%B8%AD%E6%9C%8D%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8" title="简中服活动列表">简中</a></li></ul></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a>
+<ul><li><a href="/wiki/%E9%AD%94%E5%8A%9B%E5%BC%BA%E5%8C%96" title="魔力强化">魔力强化</a></li>
+<li><a href="/wiki/%E8%A7%89%E9%86%92" title="觉醒">觉醒</a></li>
+<li>Magia强化(<a href="/wiki/%E7%AF%87%E7%AB%A0%E7%AD%89%E7%BA%A7" title="篇章等级">篇章等级</a>)</li>
+<li><a href="/wiki/%E9%AD%94%E5%8A%9B%E8%A7%A3%E6%94%BE" title="魔力解放">魔力解放</a></li>
+<li><a href="/wiki/%E7%B2%BE%E7%A5%9E%E5%BC%BA%E5%8C%96" title="精神强化">精神强化</a></li>
+<li><a href="/wiki/%E5%B1%9E%E6%80%A7%E5%BC%BA%E5%8C%96" title="属性强化">属性强化</a></li></ul></li>
+<li><a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6" title="记忆结晶">记忆结晶</a></li>
+<li><a href="/wiki/%E6%89%AD%E8%9B%8B" title="扭蛋">扭蛋</a>
+<ul><li><a href="/wiki/%E6%97%A5%E6%9C%8D%E6%89%AD%E8%9B%8B%E5%88%97%E8%A1%A8" title="日服扭蛋列表">日</a></li>
+<li><a href="/wiki/%E7%B9%81%E4%B8%AD%E6%9C%8D%E8%BD%89%E8%9B%8B%E5%88%97%E8%A1%A8" title="繁中服轉蛋列表">繁中</a></li>
+<li><a href="/wiki/%E7%AE%80%E4%B8%AD%E6%9C%8D%E6%89%AD%E8%9B%8B%E5%88%97%E8%A1%A8" title="简中服扭蛋列表">简中</a></li></ul></li>
+<li><a href="/wiki/%E4%BB%BB%E5%8A%A1" title="任务">任务</a></li>
+<li><a href="/wiki/%E5%95%86%E5%BA%97" title="商店">商店</a></li>
+<li><a href="/wiki/%E5%B7%A1%E9%80%BB" title="巡逻">巡逻</a></li>
+<li>其他功能
+<ul><li><a href="/wiki/%E6%A1%A3%E6%A1%88" title="档案">档案</a></li>
+<li><a href="/wiki/%E9%81%93%E5%85%B7" title="道具">道具</a></li>
+<li><a href="/wiki/%E5%A5%BD%E5%8F%8B" title="好友">好友</a></li>
+<li><a href="/wiki/%E7%A7%B0%E5%8F%B7" title="称号">称号</a></li>
+<li><a href="/wiki/%E5%BC%95%E7%BB%A7" title="引继">引继</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">战斗<wbr />系统</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E5%B1%9E%E6%80%A7" title="属性">属性</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E9%98%B5%E5%BD%A2" title="魔法阵形">魔法阵形</a></li>
+<li><a href="/wiki/%E8%A1%8C%E5%8A%A8%E7%9B%98" title="行动盘">行动盘</a>
+<ul><li><a href="/wiki/%E4%BC%A4%E5%AE%B3%E5%85%AC%E5%BC%8F" title="伤害公式">伤害公式</a></li>
+<li><a href="/wiki/MP%E8%AE%A1%E7%AE%97%E5%85%AC%E5%BC%8F" title="MP计算公式">MP公式</a></li></ul></li>
+<li><a href="/wiki/%E8%BF%9E%E6%90%BA" title="连携">Connect</a></li>
+<li><a href="/wiki/Magia" title="Magia">Magia</a></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3%E5%8C%96%E8%BA%AB" title="魔女化身">Doppel</a></li>
+<li><a class="mw-selflink selflink">效果</a>
+<ul><li><a href="/wiki/%E6%8A%80%E8%83%BD%E8%A7%A6%E5%8F%91%E6%9C%BA%E5%88%B6" title="技能触发机制">触发机制</a></li>
+<li><a href="/wiki/%E6%8A%80%E8%83%BD%E7%AD%89%E7%BA%A7%E6%95%B0%E5%80%BC%E8%A1%A8" title="技能等级数值表">等级数值</a></li>
+<li><a href="/wiki/Buff" class="mw-redirect" title="Buff">Buff</a></li>
+<li><a href="/wiki/Debuff" title="Debuff">Debuff</a></li>
+<li><a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%BA%E5%8C%96" class="mw-redirect" title="状态强化">状态强化</a></li>
+<li><a href="/wiki/%E7%8A%B6%E6%80%81%E5%BC%82%E5%B8%B8" title="状态异常">状态异常</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">战斗<wbr />关卡</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E4%B8%BB%E7%BA%BF%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8" title="主线关卡列表">主线</a></li>
+<li><a href="/wiki/%E6%94%AF%E7%BA%BF%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8" title="支线关卡列表">支线</a></li>
+<li><a href="/wiki/%E8%A7%92%E8%89%B2%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8" title="角色关卡列表">角色</a></li>
+<li><a href="/wiki/%E8%A7%89%E9%86%92%E5%BC%BA%E5%8C%96%E5%85%B3%E5%8D%A1%E5%88%97%E8%A1%A8" title="觉醒强化关卡列表">觉醒强化</a></li>
+<li><a href="/wiki/%E6%B4%BB%E5%8A%A8" title="活动">活动</a>
+<ul><li><a href="/wiki/%E6%97%A5%E6%9C%8D%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8" title="日服活动列表">日</a></li>
+<li><a href="/wiki/%E7%B9%81%E4%B8%AD%E6%9C%8D%E6%B4%BB%E5%8B%95%E5%88%97%E8%A1%A8" title="繁中服活動列表">繁中</a></li>
+<li><a href="/wiki/%E7%AE%80%E4%B8%AD%E6%9C%8D%E6%B4%BB%E5%8A%A8%E5%88%97%E8%A1%A8" title="简中服活动列表">简中</a></li></ul></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="9" style="width:0%;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Bg_hero.jpg" class="image"><img alt="Bg hero.jpg" src="https://cdn.mfjl.wiki/thumb/7/74/Bg_hero.jpg/90px-Bg_hero.jpg" decoding="async" width="90" height="155" srcset="https://cdn.mfjl.wiki/thumb/7/74/Bg_hero.jpg/135px-Bg_hero.jpg 1.5x, https://cdn.mfjl.wiki/thumb/7/74/Bg_hero.jpg/180px-Bg_hero.jpg 2x" /></a></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">世界观</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%E7%A5%9E%E6%BB%A8%E5%B8%82" title="神滨市">神滨市</a>
+<ul><li><a href="/wiki/Magius%E4%B9%8B%E7%BF%BC" title="Magius之翼">Magius之翼</a></li>
+<li><a href="/wiki/%E7%A5%9E%E6%BB%A8%E9%AD%94%E6%B3%95%E8%81%94%E7%9B%9F" title="神滨魔法联盟">神滨魔法联盟</a></li>
+<li><a href="/wiki/Neo-Magius" title="Neo-Magius">Neo-Magius</a></li></ul></li>
+<li><a href="/wiki/%E8%A7%81%E6%B3%B7%E5%8E%9F%E5%B8%82" title="见泷原市">见泷原市</a></li>
+<li><a href="/wiki/%E5%AE%9D%E5%B4%8E%E5%B8%82" title="宝崎市">宝崎市</a></li>
+<li><a href="/index.php?title=%E4%BA%8C%E6%9C%A8%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="二木市（页面不存在）">二木市</a>
+<ul><li><a href="/wiki/PROMISED_BLOOD" title="PROMISED BLOOD">PROMISED BLOOD</a></li></ul></li>
+<li><a href="/index.php?title=%E9%9B%BE%E5%B3%B0%E6%9D%91&amp;action=edit&amp;redlink=1" class="new" title="雾峰村（页面不存在）">雾峰村</a>
+<ul><li><a href="/wiki/%E6%97%B6%E5%A5%B3%E4%B8%80%E6%97%8F" title="时女一族">时女一族</a></li></ul></li>
+<li><a href="/index.php?title=%E6%B1%A4%E5%9B%BD%E5%B8%82&amp;action=edit&amp;redlink=1" class="new" title="汤国市（页面不存在）">汤国市</a>
+<ul><li><a href="/wiki/%E5%8D%88%E5%A4%9C0%E6%97%B6%E7%9A%84%E6%B0%91%E9%97%B4%E4%BC%A0%E8%AF%B4" title="午夜0时的民间传说">Folklore of 0</a></li></ul></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="魔法少女">魔法少女</a></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3" title="魔女">魔女</a>
+<ul><li><a href="/wiki/%E9%95%9C%E4%B9%8B%E9%AD%94%E5%A5%B3" title="镜之魔女">镜之魔女</a></li>
+<li><a href="/wiki/%E5%A4%8F%E5%A8%83" class="mw-redirect" title="夏娃">夏娃</a></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3%E4%B9%8B%E5%A4%9C" title="魔女之夜">魔女之夜</a></li></ul></li>
+<li><a href="/wiki/%E5%9C%86%E7%8E%AF%E4%B9%8B%E7%90%86" title="圆环之理">圆环之理</a></li>
+<li><a href="/wiki/%E8%B0%A3" title="谣">传言/谣</a></li>
+<li><a href="/wiki/%E5%BF%83%E9%AD%94" title="心魔">心魔</a></li>
+<li><a href="/wiki/%E5%85%AB%E4%BA%91%E5%BE%A1%E9%AD%82" title="八云御魂">调整屋</a>
+<ul><li><a href="/wiki/Puella_Care" title="Puella Care">Puella Care</a></li></ul></li>
+<li><a href="/wiki/Puella_Historia" title="Puella Historia">Puella Historia</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86_scene0" title="魔法少女小圆 scene0">魔法少女小圆 scene0</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">游戏<wbr />档案</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Game:%E5%89%A7%E6%83%85" title="Game:剧情">剧情汉化</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%88%97%E8%A1%A8" title="魔法少女列表">魔法少女</a>
+<ul><li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%8A%80%E8%83%BD%E9%80%9F%E6%9F%A5" title="魔法少女技能速查">技能速查</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E6%95%B0%E5%80%BC%E5%88%97%E8%A1%A8" title="魔法少女数值列表">数值</a></li>
+<li><a href="/wiki/Game:%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3" title="Game:魔法少女">详细</a></li></ul></li>
+<li>记忆结晶：<a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6%E5%88%97%E8%A1%A8" title="记忆结晶列表">日</a>/<a href="/wiki/%E8%A8%98%E6%86%B6%E7%B5%90%E6%99%B6%E5%88%97%E8%A1%A8_(%E7%B9%81%E4%B8%AD%E6%9C%8D)" title="記憶結晶列表 (繁中服)">繁中</a>/<a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6%E5%88%97%E8%A1%A8_(%E7%AE%80%E4%B8%AD%E6%9C%8D)" title="记忆结晶列表 (简中服)">简中</a>
+<ul><li><a href="/wiki/%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6%E5%88%86%E7%B1%BB%E9%80%9F%E6%9F%A5" title="记忆结晶分类速查">分类速查</a></li>
+<li><a href="/wiki/Game:%E8%AE%B0%E5%BF%86%E7%BB%93%E6%99%B6" title="Game:记忆结晶">详细</a></li></ul></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3%E5%8C%96%E8%BA%AB" title="魔女化身">魔女化身</a></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3%E3%80%81%E8%B0%A3%E5%88%97%E8%A1%A8" title="魔女、谣列表">魔女·谣</a></li>
+<li><a href="/wiki/%E7%B4%A0%E6%9D%90" title="素材">素材</a>
+<ul><li><a href="/wiki/Circle:%E6%9C%80%E4%BD%B3%E6%9D%90%E6%96%99%E6%95%88%E7%8E%87%E7%AE%80%E8%A1%A8" title="Circle:最佳材料效率简表">效率简</a></li>
+<li><a href="/wiki/Circle:%E6%9C%80%E4%BD%B3%E6%9D%90%E6%96%99%E6%95%88%E7%8E%87%E8%AF%A6%E8%A1%A8" title="Circle:最佳材料效率详表">效率详</a></li>
+<li><a href="/wiki/Circle:%E5%85%BB%E6%88%90%E7%B4%A0%E6%9D%90%E5%91%A8%E5%9B%9E%E6%8C%87%E5%8D%97" title="Circle:养成素材周回指南">攻略</a></li></ul></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E8%B4%B4%E7%BA%B8" title="魔法少女贴纸">贴纸</a></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">歌曲</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table cellspacing="0" class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group">游戏</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span lang="ja"><a href="/wiki/%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%8A" title="かかわり">かかわり</a></span>（第1部OP）</li>
+<li><span lang="ja"><a href="/wiki/%E5%9B%BD%E5%AE%9DHigh_End" title="国宝High End">国宝ハイエンド</a></span>（<a href="/wiki/%E6%B2%99%E4%BC%98%E5%B8%8C%E6%9B%B4%E4%B8%8A%E4%B8%80%E5%B1%82%E6%A5%BC%EF%BC%81%E7%9A%84%E8%AF%B4%EF%BD%9E" title="沙优希更上一层楼！的说～">沙优希活动</a>IN）</li>
+<li><span lang="ja"><a href="/wiki/%E4%BD%99%E7%99%BD%E3%81%AE%E3%81%BB%E3%82%93%E3%81%AD" title="余白のほんね">余白のほんね</a></span>（第1部ED）</li>
+<li><span lang="ja"><a href="/wiki/%E3%83%9B%E3%83%BC%E3%83%A0%E3%83%A1%E3%82%A4%E3%83%89" title="ホームメイド">ホームメイド</a></span>（Team三日月庄角色歌）</li>
+<li><span lang="ja"><a href="/wiki/%E5%B1%B1%E8%8C%B6%E8%8A%B1%E4%B9%8B%E8%B7%A1" title="山茶花之跡">山茶花の跡</a></span>（<a href="/wiki/%E6%B7%B1%E7%A2%A7%E4%B9%8B%E5%B7%AB" title="深碧之巫">深碧之巫</a>IN）</li>
+<li><a href="/wiki/Bulimia" title="Bulimia">Bulimia</a>（<a href="/wiki/Crimson_Resolve%EF%BD%9E%E6%B7%B1%E7%BA%A2%E7%9A%84%E5%86%B3%E6%96%AD%EF%BD%9E" title="Crimson Resolve～深红的决断～">深红的决断</a>IN）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%A4%E3%83%87%E3%82%AA%E3%83%AD%E3%82%AE%E3%83%BC" title="イデオロギー">イデオロギー</a></span>（<a href="/wiki/Dependence_Blue" title="Dependence Blue">Dependence Blue</a> IN）</li>
+<li><a href="/wiki/Cinis" title="Cinis">cinis</a>（第2部插曲）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%B7%E3%82%B0%E3%83%8A%E3%83%AB" title="シグナル">シグナル</a></span>（第2部印象曲）</li>
+<li><span lang="ja"><a href="/wiki/%E3%81%86%E3%81%A4%E3%82%8D%E3%81%84" title="うつろい">うつろい</a></span>（第2部OP）</li>
+<li><span lang="ja"><a href="/wiki/%E5%8F%B6%E3%81%88%E3%81%A1%E3%82%83%E3%81%8A" title="叶えちゃお">叶えちゃお</a></span>（<a href="/wiki/%E7%A5%9EFes_%E7%A5%9E%E6%BB%A8%E5%81%B6%E5%83%8F%E8%8A%822020" title="神Fes 神滨偶像节2020">2020愚人节活动</a>IN）</li>
+<li><span lang="ja"><a href="/wiki/%E6%BC%94%E8%91%AC" title="演葬">演葬</a></span>（<a href="/wiki/%E7%81%B0%E8%89%B2%E9%9D%A9%E5%91%BD" title="灰色革命">灰色革命</a>IN）</li>
+<li><span lang="ja"><a href="/wiki/%E3%83%95%E3%83%AC%E3%83%83%E3%82%B8" title="フレッジ">フレッジ</a></span>（第2部ED）</li>
+<li><a href="/index.php?title=GLOW&amp;action=edit&amp;redlink=1" class="new" title="GLOW（页面不存在）">GLOW</a>（<a href="/wiki/%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86_scene0" title="魔法少女小圆 scene0">魔圆s0</a>OP）</li>
+<li>OST
+<ul><li><a href="/wiki/%E3%80%8C%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0%E3%80%8DMusic_Collection" title="「魔法纪录 魔法少女小圆外传」Music Collection">1</a></li>
+<li><a href="/wiki/%E3%80%8C%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0%E3%80%8DMusic_Collection_2" title="「魔法纪录 魔法少女小圆外传」Music Collection 2">2</a></li></ul></li>
+<li><span lang="ja"><a href="/wiki/%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%8810%E5%80%8D" title="ポイント10倍">ポイント10倍</a></span>（舞台剧IN）</li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">动画</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span lang="ja"><a href="/wiki/%E3%81%94%E3%81%BE%E3%81%8B%E3%81%97" title="ごまかし">ごまかし</a></span>（1期OP）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%A2%E3%83%AA%E3%82%B7%E3%82%A2" title="アリシア">アリシア</a></span>（1期ED）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%A6%E3%83%AF%E3%82%B5%E6%95%B0%E3%81%88%E5%94%84" title="ウワサ数え唄">ウワサ数え唄</a></span>（1期1话IN）</li>
+<li><span lang="ja"><a href="/wiki/%E3%83%8B%E3%82%B0%E3%83%AC%E3%83%89" title="ニグレド">ニグレド</a></span>（1期13话ED）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%B1%E3%82%A2%E3%83%AC%E3%82%B9" title="ケアレス">ケアレス</a></span>（2期OP）</li>
+<li><a href="/wiki/Lapis" title="Lapis">Lapis</a>（2期ED）</li>
+<li><span lang="ja"><a href="/wiki/%E9%96%83%E5%85%89" title="閃光">閃光</a></span>（3期印象曲）</li>
+<li><span lang="ja"><a href="/wiki/%E3%82%AA%E3%83%AB%E3%82%B4%E3%83%BC%E3%83%AB" title="オルゴール">オルゴール</a></span>（3期ED）</li>
+<li><a href="/wiki/Q" title="Q">Q</a>（3期印象曲）</li>
+<li><a href="/wiki/Ablaze" title="Ablaze">ablaze</a>（3期印象曲）</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><th scope="row" class="navbox-group">其他</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li>《<a href="/wiki/%E9%AD%94%E6%B3%95%E2%98%86%E9%80%9F%E6%8A%A5" title="魔法☆速报">魔法☆速报</a>》</li>
+<li><a href="/wiki/TrySail" title="TrySail">TrySail</a></li>
+<li><a href="/wiki/%E9%AD%94%E5%A5%B3%E6%96%87%E5%AD%97" title="魔女文字">魔女文字</a></li>
+<li><a href="/wiki/%E5%AD%A6%E6%A0%A1" title="学校">学校</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)" title="魔法纪录 魔法少女小圆外传 (动画)">动画</a>
+<ul><li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC1%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第1话">1</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC2%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第2话">2</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC3%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第3话">3</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC4%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第4话">4</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC5%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第5话">5</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC6%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第6话">6</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC7%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第7话">7</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC8%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第8话">8</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC9%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第9话">9</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC10%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第10话">10</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC11%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第11话">11</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC12%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第12话">12</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC13%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第13话">13</a> / <a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC14%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第14话">14</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC15%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第15话">15</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC16%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第16话">16</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC17%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第17话">17</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC18%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第18话">18</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC19%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第19话">19</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC20%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第20话">20</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC21%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第21话">21</a> / <a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC22%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第22话">22</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC23%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第23话">23</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC24%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第24话">24</a></li>
+<li><a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95_%E9%AD%94%E6%B3%95%E5%B0%91%E5%A5%B3%E5%B0%8F%E5%9C%86%E5%A4%96%E4%BC%A0_(%E5%8A%A8%E7%94%BB)/%E7%AC%AC25%E8%AF%9D" title="魔法纪录 魔法少女小圆外传 (动画)/第25话">25</a></li></ul></li></ul>
+</div></td></tr><tr style="height:2px"><td colspan="2"></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>另见<a href="/wiki/%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95%E7%94%A8%E8%AF%AD%E5%88%97%E8%A1%A8" title="魔法纪录用语列表">魔法纪录用语列表</a>、<a href="/wiki/Category:%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95" title="Category:魔法纪录">分类:魔法纪录</a> / <a href="/wiki/Help:Help_for_Non-Chinese_Speakers" title="Help:Help for Non-Chinese Speakers">Help for Non-Chinese Speakers</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Cached time: 20240409164140
+Cache expiry: 86400
+Dynamic content: false
+Complications: []
+CPU time usage: 1.903 seconds
+Real time usage: 46.987 seconds
+Preprocessor visited node count: 18159/1000000
+Preprocessor generated node count: 0/1000000
+Post‐expand include size: 73276/4194304 bytes
+Template argument size: 11885/4194304 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 0/5000000 bytes
+Lua time usage: 0.070/10 seconds
+Lua virtual size: 9.76 MB/50 MB
+Lua estimated memory usage: 0 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  276.495      1 -total
+ 62.12%  171.759      3 Template:Navbox
+ 48.81%  134.969    109 Template:效果翻译
+ 45.52%  125.858      1 Template:魔法纪录
+ 45.27%  125.169    132 Template:翻译
+ 40.24%  111.255    109 Template:效果中文
+  0.74%    2.052     35 Template:Ja
+  0.49%    1.347      3 Template:Color
+-->
+
+<!-- Saved in parser cache with key mediawiki:pcache:idhash:4641-0!canonical!zh and timestamp 20240409164053 and revision id 90521
+ -->
+</div></div><div class="printfooter">
+取自“<a dir="ltr" href="https://magireco.moe/index.php?title=技能和状态效果列表&amp;oldid=90521">https://magireco.moe/index.php?title=技能和状态效果列表&amp;oldid=90521</a>”</div>
+							<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Special:%E9%A1%B5%E9%9D%A2%E5%88%86%E7%B1%BB" title="Special:页面分类">分类</a>：<ul><li><a href="/wiki/Category:%E9%AD%94%E6%B3%95%E7%BA%AA%E5%BD%95%E6%88%98%E6%96%97%E7%B3%BB%E7%BB%9F" title="Category:魔法纪录战斗系统">魔法纪录战斗系统</a></li></ul></div></div>							<!-- end content -->
+														<div class="visualClear"></div>
+						</div>
+					</div>
+					<ul id="tools" class="list-inline">
+						<li id="t-whatlinkshere"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8" rel="nofollow" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-print"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;printable=yes" rel="alternate" title="本页面的可打印版本[p]" accesskey="p">可打印版本</a></li><li id="t-permalink"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;oldid=90521" title="本页面该版本的固定链接">固定链接</a></li><li id="t-info"><a href="/index.php?title=%E6%8A%80%E8%83%BD%E5%92%8C%E7%8A%B6%E6%80%81%E6%95%88%E6%9E%9C%E5%88%97%E8%A1%A8&amp;action=info" title="关于此页面的更多信息">页面信息</a></li>					</ul>
+				</div>
+				<div style="display:none" id="left-sidebar" class="col-sm-0 col-sm-pull-9 col-xs-12" >
+
+
+				</div><!-- end of the left (by default at least) column -->
+			</div>
+
+
+			<div class="visualClear"></div>
+							<div id="footer" role="contentinfo" >
+									<div id="footer-icons">
+											<div id="f-copyrightico">
+															<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh" target="_blank"><img src="/resources/assets/licenses/cc-by-nc-sa.png" alt="署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)" width="88" height="31"/></a>
+													</div>
+
+											<div id="f-poweredbyico">
+															<a href="https://www.mediawiki.org/" target="_blank"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>
+													</div>
+
+									</div>
+				<div id="footer-links">
+											<div id="f-list">
+															<div id="lastmod"> 此页面最后编辑于2023年11月18日 (星期六) 14:19。</div>
+															<div id="copyright">除非另有声明，本网站内容采用<a class="external" rel="nofollow" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)</a>授权。</div>
+															<div id="privacy"><a href="/wiki/magirecowiki:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="magirecowiki:隐私政策">隐私政策</a></div>
+															<div id="about"><a href="/wiki/magirecowiki:%E5%85%B3%E4%BA%8E" class="mw-redirect" title="magirecowiki:关于">关于魔法纪录中文Wiki</a></div>
+															<div id="disclaimer"><a href="/wiki/magirecowiki:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="magirecowiki:免责声明">免责声明</a></div>
+														<div>
+								<a data-toggle="modal" data-target="#darkmode-popup">［夜间模式］</a>
+							</div>
+						</div>
+					</div>				</div>
+			</div>
+
+			<div class="device-xs visible-xs"></div>
+			<div class="device-sm visible-sm"></div>
+			<div class="device-md visible-md"></div>
+			<div class="device-lg visible-lg"></div>
+
+			<div id="darkmode-popup" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+				<div class="modal-dialog modal-lg">
+					<div class="modal-content" style="padding:12pt 20pt">
+						<p><span class="glyphicon glyphicon-adjust" aria-hidden="true"></span>&nbsp;这是Beta测试中的夜间模式。</p>
+						<p>一些注意事项：</p>
+						<ul>
+							<li>夜间模式下除了图片之外的内容会变成反色；</li>
+							<li>随系统偏好自动切换需要浏览器支持<code>prefers-color-scheme</code>，例如Chrome 76及以上；</li>
+							<li>夜间模式设定目前保存在浏览器的LocalStorage中，不在后端保存；</li>
+							<li>iOS下Safari浏览器私密模式LocalStorage不可用，无法保存设置。</li>
+						</ul>
+						<p>当前设定：<span id="current-dark-mode-settings"></span></p>
+						<div class="btn-group btn-group-justified" id="set-dark-mode-buttons">
+							<div class="btn btn-primary" data-action="enable">启用夜间模式</div>
+							<div class="btn btn-primary" data-action="auto">随系统偏好切换</div>
+							<div class="btn btn-primary" data-action="disable">关闭夜间模式（默认）</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="background-image"></div>
+
+			<script defer>
+				function loadAfterJQ() {
+					if (window.jQuery) {
+						$('#cactions1 .dropdown-toggle').click(function() {
+							window.location.href = $("#ca-edit").attr('href');
+						});
+						$('#cactions1 .dropdown-toggle').dblclick(function() {
+							window.location.href = $("#ca-ve-edit").attr('href');
+						});
+						/*								$('#t-print a').attr('href', 'https://magireco.moe/wiki/Special:PdfGen?revid=90521&format=pdf');
+								$('#t-print a').attr('rel', 'nofollow');
+								$('#t-print').after('<li><a href="https://magireco.moe/wiki/Special:PdfGen?revid=90521&format=jpg" rel="nofollow">生成长图</a></li>');
+							*/
+						
+						
+					} else {
+						setTimeout(loadAfterJQ, 50);
+					}
+				}
+				loadAfterJQ();
+			</script>
+
+			
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.903","walltime":"46.987","ppvisitednodes":{"value":18159,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":73276,"limit":4194304},"templateargumentsize":{"value":11885,"limit":4194304},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"timingprofile":["100.00%  276.495      1 -total"," 62.12%  171.759      3 Template:Navbox"," 48.81%  134.969    109 Template:效果翻译"," 45.52%  125.858      1 Template:魔法纪录"," 45.27%  125.169    132 Template:翻译"," 40.24%  111.255    109 Template:效果中文","  0.74%    2.052     35 Template:Ja","  0.49%    1.347      3 Template:Color"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10"},"limitreport-virtmemusage":{"value":10231808,"limit":52428800},"limitreport-estmemusage":0},"cachereport":{"timestamp":"20240409164140","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":281});});</script></body></html>
